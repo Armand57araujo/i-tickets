@@ -1,0 +1,150 @@
+movie_id,movie_title,movie_year,main_actor_1,main_actor_2,domestic,mpaa,genre_1,title,year,release_date
+tt0120630,Chicken Run,2000,Mel Gibson,Julia Sawalha,106834564,,Adventure,Chicken Run,2000,June 23
+tt0120755,Mission: Impossible II,2000,Tom Cruise,Dougray Scott,215409889,PG-13,Action,Mission: Impossible II,2000,May 24
+tt0120903,X-Men,2000,Patrick Stewart,Hugh Jackman,157299718,PG-13,Action,X-Men,2000,July 13
+tt0120913,Titan A.E.,2000,Matt Damon,Drew Barrymore,22753426,PG,Action,Titan A.E.,2000,June 16
+tt0120917,The Emperor's New Groove,2000,David Spade,John Goodman,89302687,,Adventure,The Emperor's New Groove,2000,December 15
+tt0122459,Return to Me,2000,David Duchovny,Minnie Driver,32722798,PG,Comedy,Return to Me,2000,April 7
+tt0130623,Dinosaur,2000,D.B. Sweeney,Julianna Margulies,137748063,PG,Adventure,Dinosaur,2000,May 19
+tt0131704,The Adventures of Rocky & Bullwinkle,2000,Robert De Niro,Rene Russo,26005820,PG,Adventure,The Adventures of Rocky & Bullwinkle,2000,June 30
+tt0134084,Scream 3,2000,David Arquette,Neve Campbell,89143175,R,Horror,Scream 3,2000,February 4
+tt0134630,Duets,2000,Huey Lewis,Gwyneth Paltrow,4739023,R,Comedy,Duets,2000,September 15
+tt0134847,Pitch Black,2000,Radha Mitchell,Cole Hauser,39240659,R,Horror,Pitch Black,2000,February 18
+tt0134983,Supernova,2000,James Spader,Peter Facinelli,14230455,PG-13,Horror,Supernova,2000,January 14
+tt0138749,The Road to El Dorado,2000,Kevin Kline,Kenneth Branagh,50863742,PG,Adventure,The Road to El Dorado,2000,March 31
+tt0138946,The Yards,2000,Mark Wahlberg,Joaquin Phoenix,889352,R,Crime,The Yards,2000,October 20
+tt0141399,Isn't She Great,2000,Bette Midler,Nathan Lane,2962465,R,Biography,Isn't She Great,2000,January 28
+tt0141926,U-571,2000,Matthew McConaughey,Bill Paxton,77122415,PG-13,Action,U-571,2000,April 21
+tt0144084,American Psycho,2000,Christian Bale,Justin Theroux,15070285,R,Comedy,American Psycho,2000,April 14
+tt0144528,Nutty Professor II: The Klumps,2000,Eddie Murphy,Janet Jackson,123309890,PG-13,Comedy,Nutty Professor II: The Klumps,2000,July 28
+tt0144964,Highlander: Endgame,2000,Christopher Lambert,Adrian Paul,12811858,R,Action,Highlander: Endgame,2000,September 1
+tt0146309,Thirteen Days,2000,Kevin Costner,Bruce Greenwood,34592089,PG-13,Drama,Thirteen Days,2000,December 22
+tt0146882,High Fidelity,2000,John Cusack,Iben Hjejle,27287137,R,Comedy,High Fidelity,2000,March 31
+tt0146984,The Legend of Bagger Vance,2000,Will Smith,Matt Damon,30919168,PG-13,Drama,The Legend of Bagger Vance,2000,November 3
+tt0149367,Where the Money Is,2000,Paul Newman,Linda Fiorentino,5661798,PG-13,Comedy,Where the Money Is,2000,April 14
+tt0149624,All the Pretty Horses,2000,Matt Damon,Penélope Cruz,15540353,PG-13,Drama,All the Pretty Horses,2000,December 25
+tt0156323,Screwed,2000,Norm MacDonald,Dave Chappelle,7027345,PG-13,Comedy,Screwed,2000,May 12
+tt0156812,My Dog Skip,2000,Frankie Muniz,Kevin Bacon,34134641,PG,Comedy,My Dog Skip,2000,January 14
+tt0156841,The Next Best Thing,2000,Madonna,Rupert Everett,14990582,PG-13,Comedy,The Next Best Thing,2000,March 3
+tt0158622,The Flintstones in Viva Rock Vegas,2000,Mark Addy,Stephen Baldwin,35268275,PG,Comedy,The Flintstones in Viva Rock Vegas,2000,April 28
+tt0160009,The Art of War,2000,Wesley Snipes,Anne Archer,30208599,R,Action,The Art of War,2000,August 25
+tt0160127,Charlie's Angels,2000,Cameron Diaz,Drew Barrymore,125305545,PG-13,Action,Charlie's Angels,2000,November 3
+tt0160484,Lost Souls,2000,Winona Ryder,Ben Chaplin,16815253,R,Drama,Lost Souls,2000,October 13
+tt0160797,Rules of Engagement,2000,Tommy Lee Jones,Samuel L. Jackson,61335230,R,Drama,Rules of Engagement,2000,April 7
+tt0161081,What Lies Beneath,2000,Harrison Ford,Michelle Pfeiffer,155464351,PG-13,Drama,What Lies Beneath,2000,July 21
+tt0162222,Cast Away,2000,Tom Hanks,Helen Hunt,233632142,PG-13,Adventure,Cast Away,2000,December 22
+tt0162650,Shaft,2000,Samuel L. Jackson,Vanessa Williams,70334258,R,Action,Shaft,2000,June 16
+tt0162983,Hanging Up,2000,Diane Keaton,Meg Ryan,36050230,PG-13,Comedy,Hanging Up,2000,February 18
+tt0163978,The Beach,2000,Leonardo DiCaprio,Daniel York,39785027,R,Adventure,The Beach,2000,February 11
+tt0163983,Bless the Child,2000,Kim Basinger,Jimmy Smits,29381494,R,Crime,Bless the Child,2000,August 11
+tt0164052,Hollow Man,2000,Kevin Bacon,Elisabeth Shue,73209340,R,Action,Hollow Man,2000,August 4
+tt0164212,Under Suspicion,2000,Morgan Freeman,Gene Hackman,260562,R,Crime,Under Suspicion,2000,September 22
+tt0165929,Romeo Must Die,2000,Jet Li,Aaliyah,55973336,R,Action,Romeo Must Die,2000,March 22
+tt0167203,I Dreamed of Africa,2000,Kim Basinger,Vincent Perez,6651522,PG-13,Adventure,I Dreamed of Africa,2000,May 5
+tt0170016,How the Grinch Stole Christmas,2000,Jim Carrey,Taylor Momsen,260044825,PG,Comedy,How the Grinch Stole Christmas,2000,November 17
+tt0171356,Gun Shy,2000,Liam Neeson,Sandra Bullock,1638202,R,Comedy,Gun Shy,2000,February 4
+tt0171433,Keeping the Faith,2000,Ben Stiller,Edward Norton,37047880,PG-13,Comedy,Keeping the Faith,2000,April 14
+tt0171580,Nurse Betty,2000,Renée Zellweger,Morgan Freeman,25170054,R,Comedy,Nurse Betty,2000,September 8
+tt0172495,Gladiator,2000,Russell Crowe,Joaquin Phoenix,187705427,R,Action,Gladiator,2000,May 4
+tt0174336,Whipped,2000,Amanda Peet,Brian Van Holt,4159986,R,Comedy,Whipped,2000,September 1
+tt0174480,Autumn in New York,2000,Richard Gere,Winona Ryder,37761915,PG-13,Drama,Autumn in New York,2000,August 11
+tt0175142,Scary Movie,2000,Anna Faris,Jon Abrahams,157019771,R,Comedy,Scary Movie,2000,July 7
+tt0176783,Gossip,2000,James Marsden,Lena Headey,5108820,R,Drama,Gossip,2000,April 21
+tt0177971,The Perfect Storm,2000,George Clooney,Mark Wahlberg,182618434,PG-13,Action,The Perfect Storm,2000,June 30
+tt0181151,What Planet Are You From?,2000,Garry Shandling,Annette Bening,6291602,R,Comedy,What Planet Are You From?,2000,March 3
+tt0181875,Almost Famous,2000,Billy Crudup,Patrick Fugit,32534850,R,Adventure,Almost Famous,2000,September 15
+tt0181984,Boiler Room,2000,Giovanni Ribisi,Vin Diesel,16970581,R,Crime,Boiler Room,2000,February 18
+tt0183505,"Me, Myself & Irene",2000,Jim Carrey,Renée Zellweger,90570999,R,Comedy,"Me, Myself & Irene",2000,June 23
+tt0183523,Mission to Mars,2000,Tim Robbins,Gary Sinise,60883407,PG,Adventure,Mission to Mars,2000,March 10
+tt0184858,Reindeer Games,2000,Ben Affleck,Gary Sinise,23368995,R,Action,Reindeer Games,2000,February 25
+tt0184894,Shanghai Noon,2000,Jackie Chan,Owen Wilson,56937502,PG-13,Action,Shanghai Noon,2000,May 26
+tt0184907,Snow Day,2000,Chevy Chase,Mark Webber,60020107,PG,Adventure,Snow Day,2000,February 11
+tt0185014,Wonder Boys,2000,Michael Douglas,Tobey Maguire,19393557,R,Comedy,Wonder Boys,2000,February 23
+tt0185183,Battlefield Earth,2000,John Travolta,Forest Whitaker,21471685,PG-13,Action,Battlefield Earth,2000,May 12
+tt0185431,Little Nicky,2000,Adam Sandler,Patricia Arquette,39464775,PG-13,Comedy,Little Nicky,2000,November 10
+tt0186045,Drowning Mona,2000,Danny DeVito,Bette Midler,15506764,PG-13,Comedy,Drowning Mona,2000,March 3
+tt0186151,Frequency,2000,Dennis Quaid,Jim Caviezel,45010278,PG-13,Crime,Frequency,2000,April 28
+tt0186566,Space Cowboys,2000,Clint Eastwood,Tommy Lee Jones,90464773,PG-13,Action,Space Cowboys,2000,August 4
+tt0186894,Bounce,2000,Ben Affleck,Gwyneth Paltrow,36805288,PG-13,Drama,Bounce,2000,November 17
+tt0186975,Down to You,2000,Freddie Prinze Jr.,Julia Stiles,20069008,PG-13,Comedy,Down to You,2000,January 21
+tt0187078,Gone in 60 Seconds,2000,Nicolas Cage,Angelina Jolie,101648571,PG-13,Action,Gone in 60 Seconds,2000,June 9
+tt0187393,The Patriot,2000,Mel Gibson,Heath Ledger,113330342,R,Action,The Patriot,2000,June 28
+tt0188160,Price of Glory,2000,Jimmy Smits,Maria del Mar,3440228,PG-13,Drama,Price of Glory,2000,March 31
+tt0190138,The Whole Nine Yards,2000,Bruce Willis,Matthew Perry,57262492,,Comedy,The Whole Nine Yards,2000,February 18
+tt0190332,"Crouching Tiger, Hidden Dragon",2000,Yun-Fat Chow,Michelle Yeoh,128078872,PG-13,Action,"Crouching Tiger, Hidden Dragon",2000,December 8
+tt0190374,Dungeons & Dragons,2000,Justin Whalin,Jeremy Irons,15391970,PG-13,Action,Dungeons & Dragons,2000,December 8
+tt0190865,Vertical Limit,2000,Scott Glenn,Chris O'Donnell,69243859,PG-13,Action,Vertical Limit,2000,December 8
+tt0191397,The Replacements,2000,Keanu Reeves,Gene Hackman,44737059,PG-13,Comedy,The Replacements,2000,August 11
+tt0191754,28 Days,2000,Sandra Bullock,Viggo Mortensen,37170488,PG-13,Comedy,28 Days,2000,April 14
+tt0192255,The Little Vampire,2000,Jonathan Lipnicki,Rollo Weeks,13572400,PG,Adventure,The Little Vampire,2000,October 27
+tt0192614,The Skulls,2000,Joshua Jackson,Paul Walker,35046120,PG-13,Action,The Skulls,2000,March 31
+tt0192731,Urban Legends: Final Cut,2000,Jennifer Morrison,Matthew Davis,21468807,R,Horror,Urban Legends: Final Cut,2000,September 22
+tt0195234,Saving Grace,2000,Brenda Blethyn,Craig Ferguson,12178602,R,Comedy,Saving Grace,2000,August 4
+tt0195685,Erin Brockovich,2000,Julia Roberts,Albert Finney,125595205,R,Biography,Erin Brockovich,2000,March 17
+tt0195714,Final Destination,2000,Devon Sawa,Ali Larter,53331147,R,Horror,Final Destination,2000,March 17
+tt0195778,Here on Earth,2000,Chris Klein,Leelee Sobieski,10522168,PG-13,Drama,Here on Earth,2000,March 24
+tt0195945,Next Friday,2000,Ice Cube,Mike Epps,57328603,R,Comedy,Next Friday,2000,January 12
+tt0196216,Small Time Crooks,2000,Woody Allen,Tracey Ullman,17266359,PG,Comedy,Small Time Crooks,2000,May 19
+tt0198021,Where the Heart Is,2000,Natalie Portman,James Frain,33772838,PG-13,Comedy,Where the Heart Is,2000,April 28
+tt0198386,The Crew,2000,Richard Dreyfuss,Burt Reynolds,13023075,PG-13,Comedy,The Crew,2000,August 25
+tt0199725,Love & Basketball,2000,Sanaa Lathan,Omar Epps,27459615,PG-13,Drama,Love & Basketball,2000,April 21
+tt0199753,Red Planet,2000,Val Kilmer,Carrie-Anne Moss,17480890,PG-13,Action,Red Planet,2000,November 10
+tt0200550,Coyote Ugly,2000,Piper Perabo,Adam Garcia,60786269,PG-13,Comedy,Coyote Ugly,2000,August 4
+tt0202402,Whatever It Takes,2000,Shane West,Marla Sokoloff,8745680,PG-13,Comedy,Whatever It Takes,2000,March 24
+tt0202677,The Way of the Gun,2000,Ryan Phillippe,Benicio Del Toro,6055661,R,Action,The Way of the Gun,2000,September 8
+tt0203019,Men of Honor,2000,Cuba Gooding Jr.,Robert De Niro,48818921,R,Biography,Men of Honor,2000,November 10
+tt0204175,Boys and Girls,2000,Freddie Prinze Jr.,Claire Forlani,21799652,PG-13,Comedy,Boys and Girls,2000,June 16
+tt0204626,The Watcher,2000,James Spader,Keanu Reeves,28946615,R,Crime,The Watcher,2000,September 8
+tt0204946,Bring It On,2000,Kirsten Dunst,Eliza Dushku,68379000,PG-13,Comedy,Bring It On,2000,August 25
+tt0205271,Dr. T & the Women,2000,Richard Gere,Helen Hunt,13113041,R,Comedy,Dr. T & the Women,2000,January 25
+tt0206420,Woman on Top,2000,Penélope Cruz,Murilo Benício,5020111,R,Comedy,Woman on Top,2000,September 22
+tt0207201,What Women Want,2000,Mel Gibson,Helen Hunt,182811707,PG-13,Comedy,What Women Want,2000,December 15
+tt0208003,Big Momma's House,2000,Martin Lawrence,Nia Long,117559438,PG-13,Action,Big Momma's House,2000,June 2
+tt0208874,The Contender,2000,Joan Allen,Gary Oldman,17872723,R,Drama,The Contender,2000,October 13
+tt0208988,Get Carter,2000,Sylvester Stallone,Rachael Leigh Cook,14967182,R,Action,Get Carter,2000,October 6
+tt0209144,Memento,2000,Guy Pearce,Carrie-Anne Moss,25544867,R,Mystery,Memento,2000,March 16
+tt0209958,The Cell,2000,Jennifer Lopez,Vince Vaughn,61334059,R,Horror,The Cell,2000,August 18
+tt0210567,Beautiful,2000,Minnie Driver,Hallie Eisenberg,3157348,PG-13,Comedy,Beautiful,2000,September 29
+tt0210616,Center Stage,2000,Amanda Schull,Ethan Stiefel,17200925,PG-13,Drama,Center Stage,2000,May 12
+tt0210945,Remember the Titans,2000,Denzel Washington,Will Patton,115654751,PG,Biography,Remember the Titans,2000,September 29
+tt0211181,102 Dalmatians,2000,Glenn Close,Gérard Depardieu,66957026,,Adventure,102 Dalmatians,2000,November 22
+tt0211938,Bait,2000,Jamie Foxx,David Morse,15325127,R,Action,Bait,2000,September 15
+tt0212338,Meet the Parents,2000,Ben Stiller,Robert De Niro,166244045,PG-13,Comedy,Meet the Parents,2000,October 6
+tt0212346,Miss Congeniality,2000,Sandra Bullock,Michael Caine,106807667,PG-13,Action,Miss Congeniality,2000,December 22
+tt0213203,Rugrats in Paris: The Movie,2000,Christine Cavanaugh,Elizabeth Daily,76507756,,Adventure,Rugrats in Paris: The Movie,2000,November 17
+tt0213790,The Ladies Man,2000,Tim Meadows,Karyn Parsons,13616610,,Comedy,The Ladies Man,2000,October 13
+tt0215129,Road Trip,2000,Breckin Meyer,Seann William Scott,68540777,R,Comedy,Road Trip,2000,May 19
+tt0216216,The 6th Day,2000,Arnold Schwarzenegger,Michael Rapaport,34604280,PG-13,Action,The 6th Day,2000,November 17
+tt0217630,Loser,2000,Jason Biggs,Mena Suvari,15618626,PG-13,Comedy,Loser,2000,July 21
+tt0217756,Ready to Rumble,2000,David Arquette,Oliver Platt,12394327,PG-13,Comedy,Ready to Rumble,2000,April 7
+tt0217869,Unbreakable,2000,Bruce Willis,Samuel L. Jackson,95011339,PG-13,Drama,Unbreakable,2000,November 22
+tt0218839,Best in Show,2000,Fred Willard,Eugene Levy,18715392,PG-13,Comedy,Best in Show,2000,September 29
+tt0218967,The Family Man,2000,Nicolas Cage,Téa Leoni,75793305,PG-13,Comedy,The Family Man,2000,December 14
+tt0219653,Dracula 2000,2000,Gerard Butler,Justine Waddell,33022767,,Action,Dracula 2000,2000,December 22
+tt0219854,The Kid,2000,Bruce Willis,Spencer Breslin,69691949,PG,Comedy,The Kid,2000,July 7
+tt0219952,Lucky Numbers,2000,John Travolta,Lisa Kudrow,10042516,R,Comedy,Lucky Numbers,2000,October 27
+tt0220099,The Tigger Movie,2000,Jim Cummings,Nikita Hopkins,45554533,,Animation,The Tigger Movie,2000,February 11
+tt0220100,Timecode,2000,Jeanne Tripplehorn,Stellan Skarsgård,1057750,R,Drama,Timecode,2000,April 28
+tt0223897,Pay It Forward,2000,Kevin Spacey,Haley Joel Osment,33519628,PG-13,Drama,Pay It Forward,2000,October 20
+tt0228750,Proof of Life,2000,Meg Ryan,Russell Crowe,32598931,R,Action,Proof of Life,2000,December 8
+tt0228786,The Crimson Rivers,2000,Jean Reno,Vincent Cassel,594966,R,Crime,The Crimson Rivers,2000,January 26
+tt0229260,Book of Shadows: Blair Witch 2,2000,Jeffrey Donovan,Stephen Barker Turner,26437094,R,Adventure,Book of Shadows: Blair Witch 2,2000,October 27
+tt0230030,Bedazzled,2000,Brendan Fraser,Elizabeth Hurley,37886980,PG-13,Comedy,Bedazzled,2000,October 20
+tt0235679,Pokémon 3 the Movie: Spell of the Unown,2000,Veronica Taylor,Eric Stuart,17052128,G,Action,Pokémon 3 the Movie: Spell of the Unown,2000,April 6
+tt0241303,Chocolat,2000,Juliette Binoche,Judi Dench,71509363,PG-13,Drama,Chocolat,2000,December 15
+tt0242423,"Dude, Where's My Car?",2000,Ashton Kutcher,Seann William Scott,46729800,PG-13,Comedy,"Dude, Where's My Car?",2000,December 15
+tt0243862,Italian for Beginners,2000,Anders W. Berthelsen,Ann Eleonora Jørgensen,4544753,R,Comedy,Italian for Beginners,2000,December 8
+tt0249462,Billy Elliot,2000,Jamie Bell,Julie Walters,21995263,R,Drama,Billy Elliot,2000,September 29
+tt0259974,Digimon: The Movie,2000,Lara Jill Miller,Joshua Seth,9631153,PG,Action,Digimon: The Movie,2000,October 6
+tt0983946,Fantasy Island,2020,Michael Peña,Maggie Q,26441782,PG-13,Adventure,Fantasy Island,2020,February 12
+tt1051906,The Invisible Man,2020,Elisabeth Moss,Oliver Jackson-Cohen,64914050,R,Horror,The Invisible Man,2020,February 26
+tt1502397,Bad Boys for Life,2020,Will Smith,Martin Lawrence,204417855,R,Action,Bad Boys for Life,2020,January 15
+tt1634106,Bloodshot,2020,Vin Diesel,Eiza González,10021787,PG-13,Action,Bloodshot,2020,March 6
+tt3612126,The Grudge,2020,Tara Westwood,Junko Bailey,21221803,R,Horror,The Grudge,2020,December 31
+tt3794354,Sonic the Hedgehog,2020,Ben Schwartz,James Marsden,146066470,PG,Action,Sonic the Hedgehog,2020,February 12
+tt6673612,Dolittle,2020,Robert Downey Jr.,Antonio Banderas,77047065,PG,Adventure,Dolittle,2020,January 8
+tt7504726,The Call of the Wild,2020,Harrison Ford,Omar Sy,62342368,PG,Adventure,The Call of the Wild,2020,January 3
+tt7510346,The Turning,2020,Mackenzie Davis,Finn Wolfhard,15472775,PG-13,Drama,The Turning,2020,January 22
+tt7713068,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,2020,Margot Robbie,Rosie Perez,84158461,R,Action,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,2020,February 5
+tt8244784,The Hunt,2020,Betty Gilpin,Hilary Swank,5812500,R,Action,The Hunt,2020,March 13
+tt9173418,Brahms: The Boy II,2020,Katie Holmes,Owain Yeoman,12611536,PG-13,Drama,Brahms: The Boy II,2020,February 20
