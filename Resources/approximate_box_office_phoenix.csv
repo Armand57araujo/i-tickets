@@ -1,0 +1,1351 @@
+movie,city,theater_count,estimated_city_gross
+Knives Out,Phoenix,50,"$256,040.07"
+The Wolf of Wall Street,Phoenix,50,"$181,006.94"
+The Dark Knight,Phoenix,50,"$828,165.23"
+American Psycho,Phoenix,50,"$23,334.56"
+John Wick,Phoenix,50,"$66,639.01"
+The Gentlemen,Phoenix,50,"$56,472.27"
+F9: The Fast Saga,Phoenix,50,"$268,184.08"
+Nobody,Phoenix,50,"$42,221.34"
+Prisoners,Phoenix,50,"$94,454.87"
+Catch Me If You Can,Phoenix,50,"$254,887.46"
+Joker,Phoenix,50,"$519,406.80"
+The Fast and the Furious,Phoenix,50,"$223,793.74"
+In Bruges,Phoenix,50,"$12,011.00"
+No Country for Old Men,Phoenix,50,"$115,019.43"
+The Departed,Phoenix,50,"$204,981.50"
+Kingsman: The Golden Circle,Phoenix,50,"$155,201.83"
+The Grand Budapest Hotel,Phoenix,50,"$91,509.87"
+"Three Billboards Outside Ebbing, Missouri",Phoenix,50,"$84,408.10"
+Irreversible,Phoenix,50,"$1,166.71"
+White Chicks,Phoenix,50,"$109,674.63"
+Sicario,Phoenix,50,"$72,602.54"
+John Wick: Chapter 3 - Parabellum,Phoenix,50,"$264,797.62"
+The Irishman,Phoenix,50,"$10,838.67"
+Baywatch,Phoenix,50,"$89,899.35"
+Mystic River,Phoenix,50,"$139,563.71"
+Snatch,Phoenix,50,"$46,959.57"
+John Wick: Chapter 2,Phoenix,50,"$142,496.34"
+American Hustle,Phoenix,50,"$232,439.72"
+Enough,Phoenix,50,"$61,947.27"
+Road to Perdition,Phoenix,50,"$161,735.88"
+Baby Driver,Phoenix,50,"$166,955.63"
+City of God,Phoenix,50,"$11,711.03"
+The Hateful Eight,Phoenix,50,"$83,794.44"
+House of Gucci,Phoenix,50,"$83,317.78"
+Batman Begins,Phoenix,50,"$320,286.60"
+The Equalizer,Phoenix,50,"$157,208.38"
+Wind River,Phoenix,50,"$52,336.64"
+The Longest Yard,Phoenix,50,"$244,829.34"
+21 Jump Street,Phoenix,50,"$214,369.89"
+Kill Bill: Vol. 1,Phoenix,50,"$108,540.11"
+Murder on the Orient Express,Phoenix,50,"$159,214.78"
+Now You See Me,Phoenix,50,"$182,281.71"
+Zootopia,Phoenix,50,"$528,413.64"
+Legend,Phoenix,50,"$2,900.11"
+Hell or High Water,Phoenix,50,"$41,593.34"
+Nightcrawler,Phoenix,50,"$50,138.50"
+Zodiac,Phoenix,50,"$51,220.61"
+Spotlight,Phoenix,50,"$69,763.56"
+Knock Knock,Phoenix,50,$56.26
+We're the Millers,Phoenix,50,"$232,867.56"
+Furious 7,Phoenix,50,"$546,589.74"
+Minority Report,Phoenix,50,"$204,499.35"
+Fast & Furious,Phoenix,50,"$240,098.73"
+Seven Psychopaths,Phoenix,50,"$23,262.97"
+The Nice Guys,Phoenix,50,"$56,147.06"
+The Town,Phoenix,50,"$142,739.56"
+Training Day,Phoenix,50,"$118,655.47"
+Fantastic Mr. Fox,Phoenix,50,"$32,520.54"
+Ocean's Eight,Phoenix,50,"$217,112.14"
+Sin City,Phoenix,50,"$114,741.03"
+Inside Man,Phoenix,50,"$137,052.71"
+Den of Thieves,Phoenix,50,"$69,596.09"
+The Fate of the Furious,Phoenix,50,"$349,947.33"
+Hannibal,Phoenix,50,"$255,625.91"
+Kick-Ass,Phoenix,50,"$74,432.74"
+Gangs of New York,Phoenix,50,"$120,482.71"
+Ocean's Eleven,Phoenix,50,"$283,999.83"
+Bad Times at the El Royale,Phoenix,50,"$27,621.77"
+Birds of Prey,Phoenix,50,"$130,309.45"
+2 Fast 2 Furious,Phoenix,50,"$196,884.37"
+Army of the Dead,Phoenix,50,"$1,548.38"
+Gone Baby Gone,Phoenix,50,"$31,432.49"
+Crash,Phoenix,50,"$84,511.16"
+The Girl with the Dragon Tattoo,Phoenix,50,"$158,733.62"
+Memories of Murder,Phoenix,50,$21.88
+Chicago,Phoenix,50,"$264,289.49"
+Fast Five,Phoenix,50,"$324,908.90"
+"O Brother, Where Art Thou?",Phoenix,50,"$70,470.88"
+Cruella,Phoenix,50,"$133,320.70"
+The House That Jack Built,Phoenix,50,$134.72
+Law Abiding Citizen,Phoenix,50,"$113,563.63"
+The Fast and the Furious: Tokyo Drift,Phoenix,50,"$96,796.20"
+Bad Boys II,Phoenix,50,"$214,618.83"
+The Iceman,Phoenix,50,"$3,003.00"
+City of Lies,Phoenix,50,$886.44
+The Equalizer 2,Phoenix,50,"$158,065.60"
+Swimming Pool,Phoenix,50,"$15,647.18"
+Hustlers,Phoenix,50,"$162,523.75"
+John Q,Phoenix,50,"$111,106.95"
+Bad Boys for Life,Phoenix,50,"$319,439.34"
+Taken,Phoenix,50,"$224,516.93"
+21,Phoenix,50,"$125,665.71"
+Molly's Game,Phoenix,50,"$44,563.59"
+BlacKkKlansman,Phoenix,50,"$76,297.05"
+Layer Cake,Phoenix,50,"$3,621.19"
+Game Night,Phoenix,50,"$107,115.63"
+American Gangster,Phoenix,50,"$201,544.60"
+Man on Fire,Phoenix,50,"$120,637.19"
+The Assassination of Jesse James by the Coward Robert Ford,Phoenix,50,"$6,046.40"
+Mr. & Mrs. Smith,Phoenix,50,"$288,519.76"
+Traffic,Phoenix,50,"$192,178.56"
+A History of Violence,Phoenix,50,"$48,764.41"
+The Other Guys,Phoenix,50,"$184,598.08"
+Sicario: Day of the Soldado,Phoenix,50,"$77,530.95"
+Furious 6,Phoenix,50,"$369,567.60"
+Central Intelligence,Phoenix,50,"$197,327.16"
+The Lincoln Lawyer,Phoenix,50,"$89,820.41"
+A Simple Favor,Phoenix,50,"$82,913.67"
+The Place Beyond the Pines,Phoenix,50,"$33,109.52"
+RED,Phoenix,50,"$139,943.02"
+Jack Reacher: Never Go Back,Phoenix,50,"$90,885.50"
+Collateral,Phoenix,50,"$156,395.42"
+Despicable Me,Phoenix,50,"$389,439.75"
+The Drop,Phoenix,50,"$16,605.45"
+Wanted,Phoenix,50,"$208,270.63"
+Kill Bill: Vol. 2,Phoenix,50,"$102,515.56"
+Now You See Me 2,Phoenix,50,"$100,761.80"
+Slumdog Millionaire,Phoenix,50,"$218,817.24"
+Under the Silver Lake,Phoenix,50,$71.35
+The Italian Job,Phoenix,50,"$164,327.62"
+Step Up,Phoenix,50,"$101,152.89"
+Focus,Phoenix,50,"$83,400.45"
+Cold Pursuit,Phoenix,50,"$49,763.24"
+Horrible Bosses,Phoenix,50,"$181,994.60"
+American Made,Phoenix,50,"$79,497.03"
+The Girl on the Train,Phoenix,50,"$116,740.32"
+Faster,Phoenix,50,"$35,984.43"
+Red Dragon,Phoenix,50,"$144,231.63"
+Logan Lucky,Phoenix,50,"$43,015.57"
+War Dogs,Phoenix,50,"$66,633.88"
+Don't Breathe,Phoenix,50,"$138,143.36"
+Southpaw,Phoenix,50,"$81,169.21"
+Side Effects,Phoenix,50,"$49,815.72"
+Fruitvale Station,Phoenix,50,"$24,925.61"
+22 Jump Street,Phoenix,50,"$296,854.79"
+Burn After Reading,Phoenix,50,"$93,453.14"
+3:10 to Yuma,Phoenix,50,"$83,003.99"
+Broken City,Phoenix,50,"$30,504.93"
+Running Scared,Phoenix,50,"$10,614.37"
+RocknRolla,Phoenix,50,"$8,817.11"
+Captain Phillips,Phoenix,50,"$165,833.04"
+Out of the Furnace,Phoenix,50,"$17,538.27"
+Minions,Phoenix,50,"$520,327.25"
+Green Room,Phoenix,50,"$4,984.29"
+Lucky Number Slevin,Phoenix,50,"$34,830.06"
+Spring Breakers,Phoenix,50,"$21,869.00"
+S.W.A.T.,Phoenix,50,"$181,059.52"
+Pineapple Express,Phoenix,50,"$135,237.83"
+Savages,Phoenix,50,"$73,365.54"
+I Saw the Devil,Phoenix,50,$198.80
+Point Break,Phoenix,50,"$44,566.28"
+Monster,Phoenix,50,"$53,371.51"
+Lawless,Phoenix,50,"$57,909.69"
+The Hate U Give,Phoenix,50,"$46,017.11"
+Black Mass,Phoenix,50,"$96,891.06"
+Widows,Phoenix,50,"$65,655.48"
+End of Watch,Phoenix,50,"$63,488.88"
+The Forever Purge,Phoenix,50,"$68,963.77"
+Perfume: The Story of a Murderer,Phoenix,50,"$3,442.51"
+Eastern Promises,Phoenix,50,"$26,500.38"
+The Hitman's Bodyguard,Phoenix,50,"$116,854.20"
+Megamind,Phoenix,50,"$229,804.45"
+Dogville,Phoenix,50,"$2,369.62"
+The Mexican,Phoenix,50,"$103,445.26"
+Rambo: Last Blood,Phoenix,50,"$29,222.49"
+The Cell,Phoenix,50,"$94,968.56"
+Smokin' Aces,Phoenix,50,"$55,219.53"
+Four Brothers,Phoenix,50,"$115,345.76"
+Blow,Phoenix,50,"$82,049.97"
+The Pledge,Phoenix,50,"$30,533.99"
+Gone in 60 Seconds,Phoenix,50,"$157,390.83"
+Inferno,Phoenix,50,"$53,176.97"
+Ghost in the Shell,Phoenix,50,"$62,807.88"
+The Mule,Phoenix,50,"$160,728.88"
+The Danish Girl,Phoenix,50,"$17,208.75"
+Deja Vu,Phoenix,50,"$99,156.25"
+The Punisher,Phoenix,50,"$52,153.03"
+Felon,Phoenix,50,$56.91
+Blackhat,Phoenix,50,"$10,989.06"
+Dredd,Phoenix,50,"$20,771.10"
+Public Enemies,Phoenix,50,"$150,355.05"
+The Guard,Phoenix,50,"$8,298.98"
+Funny Games,Phoenix,50,"$2,004.60"
+The Snowman,Phoenix,50,"$10,328.89"
+Miss Congeniality,Phoenix,50,"$165,379.08"
+Sin City: A Dame to Kill For,Phoenix,50,"$21,302.34"
+Super Troopers,Phoenix,50,"$28,626.97"
+Tell No One,Phoenix,50,"$9,564.65"
+In the Bedroom,Phoenix,50,"$55,634.30"
+Good Time,Phoenix,50,"$3,137.79"
+R.I.P.D.,Phoenix,50,"$52,054.83"
+The Heat,Phoenix,50,"$247,094.20"
+Runaway Jury,Phoenix,50,"$76,557.63"
+Daredevil,Phoenix,50,"$158,776.55"
+The Bank Job,Phoenix,50,"$46,545.39"
+Bronson,Phoenix,50,$162.26
+The Raid: Redemption,Phoenix,50,"$6,356.40"
+The Brothers Grimsby,Phoenix,50,"$10,628.12"
+Lord of War,Phoenix,50,"$37,392.86"
+Papillon,Phoenix,50,"$3,616.86"
+Austin Powers in Goldmember,Phoenix,50,"$330,282.11"
+Ocean's Twelve,Phoenix,50,"$194,390.51"
+The Girl in the Spider's Web,Phoenix,50,"$22,980.06"
+Hitman,Phoenix,50,"$61,451.71"
+The Old Man & the Gun,Phoenix,50,"$17,461.29"
+Live by Night,Phoenix,50,"$16,069.97"
+Before the Devil Knows You're Dead,Phoenix,50,"$10,967.23"
+Alpha Dog,Phoenix,50,"$23,580.81"
+Fracture,Phoenix,50,"$60,410.15"
+Crank,Phoenix,50,"$43,091.28"
+Kiss Kiss Bang Bang,Phoenix,50,"$6,570.96"
+Bolt,Phoenix,50,"$176,598.52"
+Freedom Writers,Phoenix,50,"$56,679.46"
+The Girl with the Dragon Tattoo,Phoenix,50,"$15,631.18"
+Charlie's Angels,Phoenix,50,"$194,020.86"
+Inherent Vice,Phoenix,50,"$12,558.89"
+The Transporter,Phoenix,50,"$39,168.57"
+The Pink Panther,Phoenix,50,"$127,318.00"
+RoboCop,Phoenix,50,"$90,746.04"
+Walking Tall,Phoenix,50,"$71,903.33"
+Ocean's Thirteen,Phoenix,50,"$181,400.28"
+CHIPS,Phoenix,50,"$28,800.14"
+Going in Style,Phoenix,50,"$69,705.90"
+The American,Phoenix,50,"$55,132.27"
+Frequency,Phoenix,50,"$69,693.11"
+The Family,Phoenix,50,"$57,164.43"
+Killing Them Softly,Phoenix,50,"$23,266.08"
+Muppets Most Wanted,Phoenix,50,"$79,251.01"
+The Best Offer,Phoenix,50,$132.28
+Calvary,Phoenix,50,"$5,564.05"
+The Taking of Pelham 123,Phoenix,50,"$101,345.19"
+Pain & Gain,Phoenix,50,"$77,226.01"
+You Were Never Really Here,Phoenix,50,"$3,907.51"
+Be Cool,Phoenix,50,"$86,782.14"
+Kick-Ass 2,Phoenix,50,"$44,587.19"
+Horrible Bosses 2,Phoenix,50,"$84,302.22"
+Chappie,Phoenix,50,"$48,881.29"
+Triple 9,Phoenix,50,"$19,551.27"
+Stand Up Guys,Phoenix,50,"$5,111.28"
+Miami Vice,Phoenix,50,"$98,245.57"
+Boiler Room,Phoenix,50,"$26,226.77"
+Don't Breathe 2,Phoenix,50,"$50,536.15"
+The Judge,Phoenix,50,"$72,958.82"
+War,Phoenix,50,"$34,817.55"
+Brick,Phoenix,50,"$3,190.58"
+Despicable Me 2,Phoenix,50,"$569,899.47"
+21 Grams,Phoenix,50,"$25,223.88"
+Bastille Day,Phoenix,50,$60.39
+The Next Three Days,Phoenix,50,"$32,746.19"
+Takers,Phoenix,50,"$89,410.89"
+The Number 23,Phoenix,50,"$54,492.47"
+Drishyam,Phoenix,50,"$1,144.99"
+All the Money in the World,Phoenix,50,"$38,874.17"
+White Boy Rick,Phoenix,50,"$37,178.49"
+Identity Thief,Phoenix,50,"$208,268.10"
+Halloween,Phoenix,50,"$246,722.32"
+Green Street Hooligans,Phoenix,50,$532.79
+Machete,Phoenix,50,"$41,177.12"
+The Big Bounce,Phoenix,50,"$10,020.19"
+Regression,Phoenix,50,$84.75
+Panic Room,Phoenix,50,"$149,259.90"
+Revolver,Phoenix,50,$116.78
+Once Upon a Time in Mexico,Phoenix,50,"$87,266.47"
+The Hunted,Phoenix,50,"$53,014.45"
+Frailty,Phoenix,50,"$20,289.73"
+A Most Violent Year,Phoenix,50,"$8,888.19"
+"Roman J. Israel, Esq.",Phoenix,50,"$18,522.85"
+Tower Heist,Phoenix,50,"$120,845.91"
+Despicable Me 3,Phoenix,50,"$409,739.52"
+Phone Booth,Phoenix,50,"$72,102.29"
+RED 2,Phoenix,50,"$82,470.79"
+ATL,Phoenix,50,"$32,763.90"
+Official Secrets,Phoenix,50,$612.40
+Deliver Us from Evil,Phoenix,50,"$47,345.07"
+The Whole Nine Yards,Phoenix,50,"$88,664.22"
+Man on a Ledge,Phoenix,50,"$28,830.87"
+Notes on a Scandal,Phoenix,50,"$27,110.11"
+Disturbia,Phoenix,50,"$124,195.25"
+The Mechanic,Phoenix,50,"$45,091.21"
+Super,Phoenix,50,$498.82
+The Raid 2,Phoenix,50,"$4,067.92"
+Big Eyes,Phoenix,50,"$22,420.23"
+Homefront,Phoenix,50,"$31,213.05"
+Gangster Squad,Phoenix,50,"$71,226.97"
+Shoplifters,Phoenix,50,"$5,130.58"
+Elephant,Phoenix,50,"$1,899.86"
+Hoodwinked!,Phoenix,50,"$79,566.11"
+Snowden,Phoenix,50,"$33,425.73"
+The Black Dahlia,Phoenix,50,"$34,866.97"
+Sexy Beast,Phoenix,50,"$10,755.15"
+Into the Blue,Phoenix,50,"$28,602.28"
+Rush Hour 2,Phoenix,50,"$350,188.73"
+Nerve,Phoenix,50,"$59,742.20"
+Miss Congeniality 2: Armed & Fabulous,Phoenix,50,"$75,062.48"
+Heartbreakers,Phoenix,50,"$62,456.48"
+This Is England,Phoenix,50,$507.74
+The Devil's Rejects,Phoenix,50,"$26,392.14"
+A Scanner Darkly,Phoenix,50,"$8,518.60"
+The Raven,Phoenix,50,"$24,786.92"
+30 Minutes or Less,Phoenix,50,"$57,373.63"
+Wild Card,Phoenix,50,$4.95
+The Score,Phoenix,50,"$110,043.33"
+Lady Vengeance,Phoenix,50,$327.74
+The Texas Chainsaw Massacre,Phoenix,50,"$124,755.71"
+Let's Be Cops,Phoenix,50,"$127,572.40"
+The Infiltrator,Phoenix,50,"$23,885.14"
+Everybody Knows,Phoenix,50,"$4,118.95"
+The Losers,Phoenix,50,"$36,511.99"
+Intolerable Cruelty,Phoenix,50,"$54,700.67"
+Only God Forgives,Phoenix,50,"$1,205.52"
+Bully,Phoenix,50,"$2,380.90"
+Confessions of a Dangerous Mind,Phoenix,50,"$24,779.65"
+A Single Man,Phoenix,50,"$14,193.81"
+Dancer in the Dark,Phoenix,50,"$6,478.49"
+Snakes on a Plane,Phoenix,50,"$52,677.22"
+Swordfish,Phoenix,50,"$108,035.21"
+Changeling,Phoenix,50,"$55,338.87"
+Notorious,Phoenix,50,"$57,048.10"
+The Ghost Writer,Phoenix,50,"$24,064.26"
+Mechanic: Resurrection,Phoenix,50,"$32,854.19"
+Border,Phoenix,50,"$1,195.24"
+The Bling Ring,Phoenix,50,"$9,044.17"
+Michael Clayton,Phoenix,50,"$75,923.18"
+Dope,Phoenix,50,"$27,056.59"
+A Walk Among the Tombstones,Phoenix,50,"$40,734.22"
+Super Troopers 2,Phoenix,50,"$47,407.43"
+Capote,Phoenix,50,"$44,512.22"
+Awake,Phoenix,50,"$22,261.40"
+The Hangover Part III,Phoenix,50,"$173,728.58"
+Taken 2,Phoenix,50,"$216,547.87"
+Big Momma's House,Phoenix,50,"$182,026.93"
+Compliance,Phoenix,50,$493.35
+Jigsaw,Phoenix,50,"$58,920.32"
+Street Kings,Phoenix,50,"$40,906.19"
+Machete Kills,Phoenix,50,"$12,399.69"
+The Hurricane Heist,Phoenix,50,"$9,469.63"
+The Counselor,Phoenix,50,"$26,281.80"
+Filth,Phoenix,50,$53.14
+Patriots Day,Phoenix,50,"$49,372.27"
+National Security,Phoenix,50,"$55,377.86"
+Charlie's Angels: Full Throttle,Phoenix,50,"$156,123.54"
+Holmes & Watson,Phoenix,50,"$47,339.65"
+Mother,Phoenix,50,$847.42
+The Hustle,Phoenix,50,"$54,839.11"
+Transporter 2,Phoenix,50,"$66,728.45"
+Spy Game,Phoenix,50,$41.61
+The Gambler,Phoenix,50,"$52,151.04"
+Sabotage,Phoenix,50,"$16,271.20"
+Hitman: Agent 47,Phoenix,50,"$34,788.20"
+The Life of David Gale,Phoenix,50,"$30,338.60"
+Scoob!,Phoenix,50,"$3,388.52"
+Elektra,Phoenix,50,"$37,795.58"
+The Guilty,Phoenix,50,$320.73
+A Most Wanted Man,Phoenix,50,"$26,689.84"
+Parker,Phoenix,50,"$27,277.29"
+Death to Smoochy,Phoenix,50,"$12,937.99"
+Gold,Phoenix,50,"$11,190.22"
+Killer Elite,Phoenix,50,"$38,903.08"
+Masterminds,Phoenix,50,"$26,875.10"
+Baby Boy,Phoenix,50,"$44,492.07"
+Taken 3,Phoenix,50,"$138,203.05"
+The Man Who Wasn't There,Phoenix,50,"$11,604.89"
+Rush Hour 3,Phoenix,50,"$216,968.54"
+Lilya 4-Ever,Phoenix,50,$281.27
+Crank: High Voltage,Phoenix,50,"$21,104.80"
+Little Man,Phoenix,50,"$90,804.95"
+Hotel Artemis,Phoenix,50,"$10,386.77"
+Mean Creek,Phoenix,50,$935.15
+Date Night,Phoenix,50,"$152,842.97"
+Matchstick Men,Phoenix,50,"$57,145.30"
+Unleashed,Phoenix,50,"$37,967.71"
+Killshot,Phoenix,50,$26.33
+American Animals,Phoenix,50,"$4,423.66"
+Hannibal Rising,Phoenix,50,"$42,845.26"
+Flawless,Phoenix,50,"$1,858.42"
+All Good Things,Phoenix,50,$895.56
+Kill the Irishman,Phoenix,50,"$1,839.03"
+Kiss of the Dragon,Phoenix,50,"$57,050.33"
+Gridiron Gang,Phoenix,50,"$59,508.69"
+Animal Kingdom,Phoenix,50,"$1,616.57"
+Get Hard,Phoenix,50,"$139,991.47"
+Shaft,Phoenix,50,"$108,904.30"
+Assassination Nation,Phoenix,50,"$3,033.60"
+Get Rich or Die Tryin',Phoenix,50,"$47,971.74"
+Shaft,Phoenix,50,"$33,073.77"
+Blue Ruin,Phoenix,50,$399.66
+Starsky & Hutch,Phoenix,50,"$136,625.76"
+Infernal Affairs,Phoenix,50,$262.70
+Taking Lives,Phoenix,50,"$50,604.75"
+Can You Ever Forgive Me?,Phoenix,50,"$13,631.75"
+Osmosis Jones,Phoenix,50,"$21,053.21"
+Taxi,Phoenix,50,"$56,687.92"
+Beirut,Phoenix,50,"$7,771.68"
+Catwoman,Phoenix,50,"$62,248.64"
+Andhadhun,Phoenix,50,"$2,127.39"
+Hustle & Flow,Phoenix,50,"$34,376.62"
+Derailed,Phoenix,50,"$55,779.03"
+Beast,Phoenix,50,"$1,239.27"
+Thoroughbreds,Phoenix,50,"$4,383.12"
+After the Sunset,Phoenix,50,"$43,867.57"
+CBGB,Phoenix,50,$62.00
+New York Minute,Phoenix,50,"$21,705.78"
+Veronica Mars,Phoenix,50,"$5,139.25"
+Sympathy for Mr. Vengeance,Phoenix,50,$70.12
+The Three Burials of Melquiades Estrada,Phoenix,50,"$7,777.95"
+The Happytime Murders,Phoenix,50,"$32,061.50"
+Stuber,Phoenix,50,"$34,638.01"
+True Story,Phoenix,50,"$7,307.89"
+Hostage,Phoenix,50,"$53,635.86"
+London Fields,Phoenix,50,$391.24
+Tangerine,Phoenix,50,"$1,086.71"
+Four Lions,Phoenix,50,$470.92
+Spun,Phoenix,50,$635.21
+The Sentinel,Phoenix,50,"$56,176.38"
+A Nightmare on Elm Street,Phoenix,50,"$97,664.22"
+Peter Rabbit,Phoenix,50,"$178,456.34"
+Safe,Phoenix,50,"$26,542.49"
+Fun with Dick and Jane,Phoenix,50,"$170,837.23"
+Max Payne,Phoenix,50,"$63,002.73"
+Redemption,Phoenix,50,$54.13
+Death Wish,Phoenix,50,"$52,671.36"
+Mindhunters,Phoenix,50,"$6,937.90"
+Mr. Brooks,Phoenix,50,"$44,092.07"
+The Watcher,Phoenix,50,"$44,791.16"
+State of Play,Phoenix,50,"$57,317.94"
+The Art of Self-Defense,Phoenix,50,"$3,733.02"
+Ride Along,Phoenix,50,"$208,935.89"
+Heist,Phoenix,50,$73.14
+The Producers,Phoenix,50,"$30,004.13"
+Baise-moi,Phoenix,50,$8.97
+Machine Gun Preacher,Phoenix,50,$834.10
+The Spirit,Phoenix,50,"$30,629.91"
+The Man from Nowhere,Phoenix,50,$10.00
+One for the Money,Phoenix,50,"$40,899.78"
+The House,Phoenix,50,"$39,614.59"
+'71,Phoenix,50,"$1,964.53"
+Extract,Phoenix,50,"$16,744.49"
+Romeo Must Die,Phoenix,50,"$86,668.11"
+Saw III,Phoenix,50,"$124,240.20"
+Gigli,Phoenix,50,"$9,396.72"
+Mortdecai,Phoenix,50,"$11,776.48"
+Trance,Phoenix,50,"$3,590.99"
+Ichi the Killer,Phoenix,50,$31.41
+The International,Phoenix,50,"$39,407.14"
+Bad Santa,Phoenix,50,"$92,996.34"
+Saw 3D,Phoenix,50,"$70,776.82"
+Perfect Stranger,Phoenix,50,"$37,137.87"
+Destroyer,Phoenix,50,"$2,374.17"
+The Paperboy,Phoenix,50,"$1,072.47"
+Paul Blart: Mall Cop,Phoenix,50,"$32,235.97"
+The Perfect Score,Phoenix,50,"$16,084.14"
+The Book of Henry,Phoenix,50,"$6,533.45"
+Kidnap,Phoenix,50,"$47,563.37"
+Righteous Kill,Phoenix,50,"$62,061.34"
+Saving Silverman,Phoenix,50,"$29,963.62"
+Trust,Phoenix,50,$185.83
+Hunger,Phoenix,50,$238.58
+Analyze That,Phoenix,50,"$49,737.51"
+Murder by Numbers,Phoenix,50,"$49,464.23"
+I Love You Phillip Morris,Phoenix,50,"$3,151.83"
+Punisher: War Zone,Phoenix,50,"$12,306.79"
+Where the Truth Lies,Phoenix,50,"$1,349.46"
+Under Suspicion,Phoenix,50,$400.55
+Cellular,Phoenix,50,"$49,553.83"
+Bernie,Phoenix,50,"$14,250.06"
+Ong-Bak: The Thai Warrior,Phoenix,50,"$7,060.72"
+Assault on Precinct 13,Phoenix,50,"$30,930.59"
+Femme Fatale,Phoenix,50,"$10,207.09"
+Dead Man's Shoes,Phoenix,50,$9.31
+Bad Samaritan,Phoenix,50,"$5,318.77"
+Out of Time,Phoenix,50,"$63,337.00"
+Horns,Phoenix,50,$254.68
+The Gunman,Phoenix,50,"$16,475.78"
+Premium Rush,Phoenix,50,"$31,394.14"
+Sin Nombre,Phoenix,50,"$3,924.14"
+The Condemned,Phoenix,50,$5.76
+Malibu's Most Wanted,Phoenix,50,"$53,123.29"
+"The Gangster, the Cop, the Devil",Phoenix,50,$335.22
+Detroit,Phoenix,50,"$25,997.55"
+Eye See You,Phoenix,50,$122.57
+Child 44,Phoenix,50,"$1,867.56"
+The Glass House,Phoenix,50,"$27,872.79"
+Duplicity,Phoenix,50,"$62,822.24"
+Appaloosa,Phoenix,50,"$31,288.16"
+Cosmopolis,Phoenix,50,"$1,151.43"
+The Quiet,Phoenix,50,$590.22
+Fanboys,Phoenix,50,"$1,066.11"
+Paid in Full,Phoenix,50,"$4,710.47"
+Gotti,Phoenix,50,"$6,724.97"
+Keanu,Phoenix,50,"$31,844.53"
+Headhunters,Phoenix,50,"$1,853.03"
+Death Sentence,Phoenix,50,"$14,762.67"
+Elite Squad,Phoenix,50,$12.48
+Domino,Phoenix,50,"$15,745.81"
+A Man Apart,Phoenix,50,"$40,541.59"
+Agent Cody Banks,Phoenix,50,"$74,226.85"
+Kill List,Phoenix,50,$40.72
+The Clovehitch Killer,Phoenix,50,$12.71
+The Rover,Phoenix,50,"$1,717.46"
+Deception,Phoenix,50,"$7,119.09"
+The Pink Panther 2,Phoenix,50,"$55,622.50"
+Run All Night,Phoenix,50,"$40,972.74"
+House of Sand and Fog,Phoenix,50,"$20,137.46"
+The Bad Lieutenant: Port of Call - New Orleans,Phoenix,50,"$2,629.08"
+Breach,Phoenix,50,"$51,454.69"
+The Fifth Estate,Phoenix,50,"$5,038.70"
+Marshall,Phoenix,50,"$15,563.81"
+The Brave One,Phoenix,50,"$56,970.87"
+Bandits,Phoenix,50,"$64,374.20"
+High Crimes,Phoenix,50,"$64,324.76"
+Alex Cross,Phoenix,50,"$40,085.15"
+The Brothers Bloom,Phoenix,50,"$5,449.73"
+Irrational Man,Phoenix,50,"$6,236.52"
+Red State,Phoenix,50,"$1,710.47"
+Blonde and Blonder,Phoenix,50,$65.32
+Saw IV,Phoenix,50,"$98,012.73"
+Lizzie,Phoenix,50,$994.30
+London Boulevard,Phoenix,50,$10.70
+Control,Phoenix,50,$367.25
+Miss Bala,Phoenix,50,"$23,236.30"
+Batman: The Killing Joke,Phoenix,50,"$5,845.14"
+Basic,Phoenix,50,"$41,088.05"
+Charlie Says,Phoenix,50,$61.16
+Big Momma's House 2,Phoenix,50,"$108,643.73"
+The Snowtown Murders,Phoenix,50,$12.41
+Untraceable,Phoenix,50,"$44,419.73"
+Harsh Times,Phoenix,50,"$5,168.39"
+The Proposition,Phoenix,50,"$2,943.05"
+Runner Runner,Phoenix,50,"$29,909.55"
+Starred Up,Phoenix,50,$52.80
+Dahmer,Phoenix,50,$222.98
+A Prophet,Phoenix,50,"$3,227.81"
+Vantage Point,Phoenix,50,"$111,895.85"
+Hot Pursuit,Phoenix,50,"$53,430.14"
+Suburbicon,Phoenix,50,"$8,942.18"
+In the Fade,Phoenix,50,$497.05
+Free Fire,Phoenix,50,"$2,784.72"
+The Green Hornet,Phoenix,50,"$152,949.25"
+Joe,Phoenix,50,$578.13
+The Ladykillers,Phoenix,50,"$61,624.35"
+Reindeer Games,Phoenix,50,"$36,171.41"
+Torque,Phoenix,50,"$32,849.02"
+Kangaroo Jack,Phoenix,50,"$103,640.90"
+Term Life,Phoenix,50,$20.19
+Nothing But the Truth,Phoenix,50,$4.71
+"Big Mommas: Like Father, Like Son",Phoenix,50,"$58,707.55"
+In the Valley of Elah,Phoenix,50,"$10,494.53"
+Hollywoodland,Phoenix,50,"$22,320.27"
+Secret in Their Eyes,Phoenix,50,"$31,246.59"
+Primeval,Phoenix,50,"$16,409.34"
+3-Iron,Phoenix,50,$369.30
+Memoir of a Murderer,Phoenix,50,$141.42
+Cop Out,Phoenix,50,"$69,484.39"
+Gomorrah,Phoenix,50,"$2,442.79"
+White Girl,Phoenix,50,$307.34
+Son of a Gun,Phoenix,50,$2.18
+Brooklyn's Finest,Phoenix,50,"$42,045.43"
+The Girl Who Played with Fire,Phoenix,50,"$14,062.07"
+Harry Brown,Phoenix,50,"$2,816.01"
+From Paris with Love,Phoenix,50,"$37,129.80"
+Crossing Over,Phoenix,50,$703.20
+12 Rounds,Phoenix,50,"$18,941.26"
+Street Fighter: The Legend of Chun-Li,Phoenix,50,"$13,536.36"
+Chopper,Phoenix,50,$362.72
+The Whole Ten Yards,Phoenix,50,"$25,275.74"
+Leviathan,Phoenix,50,"$1,692.07"
+Wonderland,Phoenix,50,"$1,635.25"
+P2,Phoenix,50,"$6,181.67"
+Money Monster,Phoenix,50,"$63,502.36"
+Raees,Phoenix,50,"$5,052.30"
+In Secret,Phoenix,50,$650.73
+Peter Rabbit 2: The Runaway,Phoenix,50,"$62,712.13"
+Bad Education,Phoenix,50,"$8,069.92"
+We Own the Night,Phoenix,50,"$44,226.71"
+Sugar & Spice,Phoenix,50,"$20,557.80"
+Don 2,Phoenix,50,"$5,698.52"
+Super Dark Times,Phoenix,50,$51.27
+The X Files: I Want to Believe,Phoenix,50,"$32,488.89"
+3000 Miles to Graceland,Phoenix,50,"$24,369.42"
+xXx: State of the Union,Phoenix,50,"$41,611.11"
+Trespass,Phoenix,50,$26.04
+The Informant!,Phoenix,50,"$51,582.15"
+Skiptrace,Phoenix,50,$2.77
+Don,Phoenix,50,"$1,245.50"
+Man of the House,Phoenix,50,"$30,502.67"
+The Whistleblower,Phoenix,50,"$1,735.60"
+Blood Work,Phoenix,50,"$40,566.86"
+99 Homes,Phoenix,50,"$2,184.64"
+The Killer Inside Me,Phoenix,50,$332.85
+Loving Pablo,Phoenix,50,$34.09
+Transsiberian,Phoenix,50,"$3,412.08"
+Kill the Messenger,Phoenix,50,"$3,794.85"
+The Way of the Gun,Phoenix,50,"$9,376.48"
+Ride Along 2,Phoenix,50,"$141,246.25"
+Saw V,Phoenix,50,"$87,865.68"
+Two for the Money,Phoenix,50,"$35,399.19"
+No Good Deed,Phoenix,50,"$81,357.62"
+Young Adam,Phoenix,50,"$1,187.98"
+Texas Killing Fields,Phoenix,50,$70.11
+Exit Wounds,Phoenix,50,"$80,142.09"
+Narc,Phoenix,50,"$16,196.21"
+Just Getting Started,Phoenix,50,"$9,398.07"
+Undisputed,Phoenix,50,"$19,764.57"
+Gemini,Phoenix,50,$310.20
+Crocodile Dundee in Los Angeles,Phoenix,50,"$39,693.83"
+Paul Blart: Mall Cop 2,Phoenix,50,"$109,994.26"
+Life of Crime,Phoenix,50,$405.20
+Postal,Phoenix,50,"$27,878.93"
+Dark Blue,Phoenix,50,"$14,027.70"
+Madea Goes to Jail,Phoenix,50,"$140,105.71"
+Fighting,Phoenix,50,"$35,669.03"
+Cowboy Bebop: The Movie,Phoenix,50,"$1,548.45"
+Gringo,Phoenix,50,"$7,695.23"
+Blindspotting,Phoenix,50,"$6,709.75"
+The Conspirator,Phoenix,50,"$17,865.55"
+Wild Target,Phoenix,50,$181.45
+Oliver Twist,Phoenix,50,"$3,077.08"
+The Salton Sea,Phoenix,50,"$1,183.82"
+Mesrine: Killer Instinct,Phoenix,50,$854.18
+The Kitchen,Phoenix,50,"$18,656.85"
+Bel Ami,Phoenix,50,$185.68
+Bullet to the Head,Phoenix,50,"$14,684.58"
+SuperFly,Phoenix,50,"$31,811.69"
+Drillbit Taylor,Phoenix,50,"$50,869.99"
+Lakeview Terrace,Phoenix,50,"$60,794.91"
+A Kind of Murder,Phoenix,50,$2.80
+An Evening with Beverly Luff Linn,Phoenix,50,$8.07
+Contraband,Phoenix,50,"$103,010.76"
+Proud Mary,Phoenix,50,"$32,312.63"
+Nurse Betty,Phoenix,50,"$38,968.55"
+Alan Partridge,Phoenix,50,$235.68
+The Protector,Phoenix,50,"$18,434.29"
+Nancy Drew,Phoenix,50,"$39,657.97"
+Party Monster,Phoenix,50,"$1,127.61"
+Blood Ties,Phoenix,50,$63.84
+Firewall,Phoenix,50,"$75,485.47"
+Lions for Lambs,Phoenix,50,"$23,230.15"
+Highwaymen,Phoenix,50,$568.30
+Captive,Phoenix,50,"$3,960.25"
+88 Minutes,Phoenix,50,"$26,215.48"
+The Girl Who Kicked the Hornet's Nest,Phoenix,50,"$8,404.13"
+Balls of Fury,Phoenix,50,"$50,855.51"
+The Tribe,Phoenix,50,$233.13
+Dead Man Down,Phoenix,50,"$16,847.83"
+The East,Phoenix,50,"$3,512.19"
+In Order of Disappearance,Phoenix,50,$76.31
+Formula 51,Phoenix,50,"$8,057.79"
+New World,Phoenix,50,$708.86
+District B13,Phoenix,50,"$1,854.63"
+Master Z: The Ip Man Legacy,Phoenix,50,"$9,614.61"
+The Crimson Rivers,Phoenix,50,$979.43
+The Fanatic,Phoenix,50,$4.88
+Drowning Mona,Phoenix,50,"$23,887.19"
+The Dinner,Phoenix,50,"$2,048.26"
+Unstoppable,Phoenix,50,$152.53
+Hollywood Homicide,Phoenix,50,"$46,472.13"
+Find Me Guilty,Phoenix,50,"$1,817.29"
+Nine Queens,Phoenix,50,"$1,890.98"
+The Lookout,Phoenix,50,"$7,123.46"
+American Pastoral,Phoenix,50,$838.38
+Badla,Phoenix,50,"$2,881.54"
+Saving Grace,Phoenix,50,"$18,759.82"
+The Interpreter,Phoenix,50,"$112,580.01"
+Adam's Apples,Phoenix,50,$2.02
+Pride and Glory,Phoenix,50,"$24,324.13"
+Showtime,Phoenix,50,"$58,966.59"
+The Invisible,Phoenix,50,"$31,847.62"
+The Hitcher,Phoenix,50,"$25,506.44"
+Ned Kelly,Phoenix,50,$115.92
+Middle Men,Phoenix,50,"$1,120.59"
+Scoop,Phoenix,50,"$16,297.83"
+Ted Bundy,Phoenix,50,$9.40
+Brick Mansions,Phoenix,50,"$31,409.73"
+The Villainess,Phoenix,50,$42.95
+Suspect Zero,Phoenix,50,"$13,510.89"
+8 Women,Phoenix,50,"$4,763.48"
+Whiteout,Phoenix,50,"$15,910.61"
+Our Kind of Traitor,Phoenix,50,"$4,881.62"
+Cheap Thrills,Phoenix,50,$91.94
+Reservation Road,Phoenix,50,$188.89
+Cold in July,Phoenix,50,$641.99
+Get Carter,Phoenix,50,"$23,174.92"
+Talvar,Phoenix,50,$530.12
+Intermission,Phoenix,50,"$1,388.89"
+Cradle 2 the Grave,Phoenix,50,"$53,747.98"
+The Disappearance of Alice Creed,Phoenix,50,$258.55
+Raging Fire,Phoenix,50,$596.60
+The Skulls,Phoenix,50,"$54,264.78"
+Never Goin' Back,Phoenix,50,$94.87
+Hoodwinked Too! Hood vs. Evil,Phoenix,50,"$15,706.45"
+L.I.E.,Phoenix,50,"$1,767.99"
+Silent House,Phoenix,50,"$19,440.29"
+Catch That Kid,Phoenix,50,"$25,862.42"
+The Burning Plain,Phoenix,50,$310.29
+Once Upon a Time in Anatolia,Phoenix,50,$214.81
+The Clan,Phoenix,50,$288.39
+The Informers,Phoenix,50,$464.51
+Observe and Report,Phoenix,50,"$37,151.27"
+Easy Money,Phoenix,50,$292.44
+The Baader Meinhof Complex,Phoenix,50,$737.45
+Mesrine: Public Enemy No. 1,Phoenix,50,$426.00
+City by the Sea,Phoenix,50,"$34,736.27"
+A Guide to Recognizing Your Saints,Phoenix,50,$799.18
+Bitch Slap,Phoenix,50,$26.89
+Rang De Basanti,Phoenix,50,"$3,402.31"
+Auto Focus,Phoenix,50,"$3,192.87"
+Dorm Daze,Phoenix,50,$86.91
+Heaven Knows What,Phoenix,50,$123.89
+Let's Go to Prison,Phoenix,50,"$7,143.95"
+Millions,Phoenix,50,"$10,193.23"
+Trade,Phoenix,50,$331.67
+Dogman,Phoenix,50,$229.51
+Made,Phoenix,50,"$8,219.91"
+King Cobra,Phoenix,50,$44.14
+Freedomland,Phoenix,50,"$19,374.73"
+"OSS 117: Cairo, Nest of Spies",Phoenix,50,$468.78
+Mad Money,Phoenix,50,"$32,003.27"
+Traitor,Phoenix,50,"$36,434.72"
+Cecil B. Demented,Phoenix,50,"$1,989.12"
+Haider,Phoenix,50,"$1,396.04"
+Extreme Job,Phoenix,50,"$2,424.59"
+Mean Machine,Phoenix,50,$143.64
+All About Lily Chou-Chou,Phoenix,50,$38.47
+The Air I Breathe,Phoenix,50,$39.91
+Twisted,Phoenix,50,"$39,011.56"
+Delhi Belly,Phoenix,50,"$2,371.75"
+Antitrust,Phoenix,50,"$16,978.33"
+Little Woods,Phoenix,50,$232.27
+The Yards,Phoenix,50,"$1,366.77"
+Big Trouble,Phoenix,50,"$11,244.80"
+Infamous,Phoenix,50,"$1,781.26"
+Pawn Shop Chronicles,Phoenix,50,$7.61
+Elite Squad 2: The Enemy Within,Phoenix,50,$155.02
+Dhoom 2,Phoenix,50,"$4,093.28"
+"Love, Honor and Obey",Phoenix,50,$1.77
+Reno 911!: Miami,Phoenix,50,"$31,497.44"
+Cop Car,Phoenix,50,$198.20
+Veronica Guerin,Phoenix,50,"$2,433.29"
+Trapped,Phoenix,50,$96.83
+Deadfall,Phoenix,50,$101.89
+Trash,Phoenix,50,$15.84
+God Bless America,Phoenix,50,$188.95
+The Nut Job,Phoenix,50,"$99,485.93"
+Cassandra's Dream,Phoenix,50,"$1,504.35"
+Sightseers,Phoenix,50,$55.31
+Paparazzi,Phoenix,50,"$24,328.29"
+Stolen,Phoenix,50,$471.20
+Breaking and Entering,Phoenix,50,"$1,438.39"
+Dirty Pretty Things,Phoenix,50,"$12,559.48"
+The Art of the Steal,Phoenix,50,$95.14
+Collide,Phoenix,50,"$3,530.32"
+The Perfect Host,Phoenix,50,$74.99
+Lonely Hearts,Phoenix,50,$291.97
+Tragedy Girls,Phoenix,50,$95.84
+15 Minutes,Phoenix,50,"$37,786.02"
+Chi-Raq,Phoenix,50,"$4,099.15"
+Pathology,Phoenix,50,$168.25
+Max Keeble's Big Move,Phoenix,50,"$26,775.21"
+God's Pocket,Phoenix,50,$161.65
+Leaves of Grass,Phoenix,50,$105.30
+Paranoid Park,Phoenix,50,$752.55
+Taxi 2,Phoenix,50,"$1,130.08"
+Rampart,Phoenix,50,"$1,500.75"
+Conviction,Phoenix,50,"$10,502.88"
+Stockholm,Phoenix,50,$467.74
+Pink,Phoenix,50,"$1,921.89"
+Ittefaq,Phoenix,50,$461.47
+Dom Hemingway,Phoenix,50,$802.27
+Racer and the Jailbird,Phoenix,50,$71.75
+Feardotcom,Phoenix,50,"$20,451.07"
+Kings,Phoenix,50,$425.24
+The Singing Detective,Phoenix,50,$520.96
+Man from Reno,Phoenix,50,$143.87
+Robot & Frank,Phoenix,50,"$5,149.36"
+Bad Santa 2,Phoenix,50,"$27,533.61"
+Lila dit ça,Phoenix,50,$187.61
+The Sweeney,Phoenix,50,$40.79
+Absolutely Fabulous: The Movie,Phoenix,50,"$7,355.58"
+Vera Drake,Phoenix,50,"$5,812.33"
+The Blind Swordsman: Zatoichi,Phoenix,50,"$1,321.88"
+Keeping Mum,Phoenix,50,"$2,506.76"
+The Negotiation,Phoenix,50,$170.10
+The Counterfeiters,Phoenix,50,"$8,492.43"
+The Trial,Phoenix,50,$29.80
+Wasabi,Phoenix,50,$126.23
+Battle in Heaven,Phoenix,50,$109.78
+Burke and Hare,Phoenix,50,$7.48
+Birthday Girl,Phoenix,50,"$7,617.88"
+Dabangg,Phoenix,50,"$7,173.06"
+One Night at McCool's,Phoenix,50,"$9,740.37"
+The Matador,Phoenix,50,"$19,501.40"
+The Dead Girl,Phoenix,50,$26.80
+Dhoom 3,Phoenix,50,"$12,436.54"
+The Weight of Water,Phoenix,50,$158.90
+Better Luck Tomorrow,Phoenix,50,"$5,887.55"
+Maria Full of Grace,Phoenix,50,"$10,091.11"
+Lila & Eve,Phoenix,50,$58.74
+The Quarry,Phoenix,50,$3.27
+Tsotsi,Phoenix,50,"$4,509.45"
+Heaven,Phoenix,50,"$1,198.94"
+Bones,Phoenix,50,"$11,315.20"
+Welcome to the Punch,Phoenix,50,$10.51
+The Silence,Phoenix,50,$154.30
+Dhoom,Phoenix,50,$380.52
+Frozen River,Phoenix,50,"$3,884.64"
+The Angels' Share,Phoenix,50,$471.26
+Escobar: Paradise Lost,Phoenix,50,$165.47
+The Son of No One,Phoenix,50,$44.70
+What's the Worst That Could Happen?,Phoenix,50,"$49,695.82"
+Omar,Phoenix,50,$551.22
+Spartan,Phoenix,50,"$6,866.20"
+Falcon Rising,Phoenix,50,$13.46
+Killerman,Phoenix,50,$428.90
+Confidence,Phoenix,50,"$18,909.49"
+Bullhead,Phoenix,50,$235.11
+Crypto,Phoenix,50,$15.78
+Flypaper,Phoenix,50,$1.70
+Ernest & Celestine,Phoenix,50,$453.00
+Waist Deep,Phoenix,50,"$33,008.71"
+The Limits of Control,Phoenix,50,$658.10
+Bless the Child,Phoenix,50,"$45,482.45"
+The Nile Hilton Incident,Phoenix,50,$125.56
+The Thieves,Phoenix,50,"$1,061.94"
+First Sunday,Phoenix,50,"$58,733.03"
+Pieta,Phoenix,50,$33.96
+Beyond a Reasonable Doubt,Phoenix,50,$50.18
+Buster's Mal Heart,Phoenix,50,$112.45
+Knockaround Guys,Phoenix,50,"$18,011.43"
+Buffalo Soldiers,Phoenix,50,$547.73
+Black Friday,Phoenix,50,$52.64
+JCVD,Phoenix,50,$728.81
+All About the Benjamins,Phoenix,50,"$39,457.31"
+Raid,Phoenix,50,"$1,564.46"
+El Angel,Phoenix,50,$146.29
+Skin Trade,Phoenix,50,$1.92
+Sleuth,Phoenix,50,$530.84
+The Villain,Phoenix,50,$641.21
+The Third Murder,Phoenix,50,$138.29
+Talaash: The Answer Lies Within,Phoenix,50,"$4,190.50"
+Surveillance,Phoenix,50,$42.35
+Captivity,Phoenix,50,"$4,067.29"
+Little Fish,Phoenix,50,$12.62
+The Vault,Phoenix,50,$8.87
+Sophie Scholl: The Final Days,Phoenix,50,"$1,046.96"
+The Cat's Meow,Phoenix,50,"$4,969.50"
+Julia,Phoenix,50,$3.27
+Shangri-La Suite,Phoenix,50,$20.66
+Nothing Bad Can Happen,Phoenix,50,$7.24
+Chapter 27,Phoenix,50,$86.25
+Micmacs,Phoenix,50,"$1,952.38"
+Fabricated City,Phoenix,50,$162.39
+Taxi 3,Phoenix,50,$769.87
+Henry's Crime,Phoenix,50,$157.75
+The Nut Job 2: Nutty by Nature,Phoenix,50,"$43,928.41"
+Madea's Witness Protection,Phoenix,50,"$101,656.30"
+Echelon Conspiracy,Phoenix,50,$774.43
+Kung Fu Jungle,Phoenix,50,$199.92
+Home Room,Phoenix,50,$8.08
+Seeking Justice,Phoenix,50,$63.61
+Omkara,Phoenix,50,"$1,222.75"
+Shanghai,Phoenix,50,$69.20
+Mini's First Time,Phoenix,50,$75.74
+The Man,Phoenix,50,"$12,891.88"
+Domestic Disturbance,Phoenix,50,"$70,058.24"
+Priceless,Phoenix,50,"$2,321.96"
+Corky Romano,Phoenix,50,"$37,127.73"
+Half Past Dead,Phoenix,50,"$23,785.53"
+Highway,Phoenix,50,$819.30
+Screwed,Phoenix,50,"$10,881.02"
+Carandiru,Phoenix,50,$331.28
+Redacted,Phoenix,50,$101.25
+A Single Shot,Phoenix,50,$15.51
+Sweet Country,Phoenix,50,$148.04
+Unknown,Phoenix,50,$223.58
+Next Day Air,Phoenix,50,"$15,510.21"
+Greenfingers,Phoenix,50,"$2,228.57"
+Welcome to Collinwood,Phoenix,50,$517.12
+Crazy on the Outside,Phoenix,50,$99.77
+Gozu,Phoenix,50,$84.26
+The Adderall Diaries,Phoenix,50,$17.48
+Never Die Alone,Phoenix,50,"$8,739.96"
+Graduation,Phoenix,50,$272.48
+Birds of Passage,Phoenix,50,$782.67
+Goldstone,Phoenix,50,$133.78
+See Spot Run,Phoenix,50,"$51,650.12"
+Race,Phoenix,50,"$2,116.68"
+Stander,Phoenix,50,$29.52
+Raajneeti,Phoenix,50,"$2,224.09"
+Mystery Team,Phoenix,50,$119.42
+Donkey Punch,Phoenix,50,$28.46
+Bangkok Dangerous,Phoenix,50,"$23,658.78"
+Hey Ram,Phoenix,50,$425.30
+Armored,Phoenix,50,"$24,756.89"
+Kick,Phoenix,50,"$3,810.62"
+Take Me,Phoenix,50,$4.00
+The Art of War,Phoenix,50,"$46,774.45"
+Reclaim,Phoenix,50,$5.57
+The Bag Man,Phoenix,50,$75.59
+Shade,Phoenix,50,$51.44
+Closed Circuit,Phoenix,50,"$8,877.35"
+Ain't Them Bodies Saints,Phoenix,50,$600.16
+Gangster No. 1,Phoenix,50,$47.87
+Pierrepoint: The Last Hangman,Phoenix,50,$33.70
+Ballistic: Ecks vs. Sever,Phoenix,50,"$22,133.88"
+Lucky Numbers,Phoenix,50,"$15,505.86"
+Read My Lips,Phoenix,50,"$2,104.46"
+Violet & Daisy,Phoenix,50,$26.61
+Tracers,Phoenix,50,$3.10
+The Curse of the Jade Scorpion,Phoenix,50,"$11,607.48"
+Shootout at Lokhandwala,Phoenix,50,$447.84
+The Alphabet Killer,Phoenix,50,$46.12
+The Barbarian Invasions,Phoenix,50,"$5,314.58"
+Jiang hu er nü,Phoenix,50,$644.06
+Small Time Crooks,Phoenix,50,"$26,432.79"
+District 13: Ultimatum,Phoenix,50,$55.80
+Idlewild,Phoenix,50,"$19,431.40"
+Out of Blue,Phoenix,50,$24.24
+Beautiful Creatures,Phoenix,50,$85.75
+The Good Thief,Phoenix,50,"$5,446.89"
+Flash Point,Phoenix,50,$5.06
+The Oxford Murders,Phoenix,50,$5.59
+Ed Gein,Phoenix,50,$8.84
+The Ice Harvest,Phoenix,50,"$13,655.27"
+The Package,Phoenix,50,$2.27
+Haven,Phoenix,50,$211.85
+Novocaine,Phoenix,50,"$3,153.56"
+Stolen,Phoenix,50,$11.31
+Sleight,Phoenix,50,"$5,957.07"
+The Unknown Girl,Phoenix,50,$233.11
+OSS 117: Lost in Rio,Phoenix,50,$135.26
+Veteran,Phoenix,50,"$1,859.03"
+Run with the Hunted,Phoenix,50,$17.43
+Sweet Sixteen,Phoenix,50,$48.83
+Dragon,Phoenix,50,$17.24
+Stuck,Phoenix,50,$103.98
+Defendor,Phoenix,50,$68.84
+Bait,Phoenix,50,"$23,729.15"
+Sonny,Phoenix,50,$27.31
+Batla House,Phoenix,50,$763.63
+Special 26,Phoenix,50,"$1,671.28"
+In the Mix,Phoenix,50,"$15,646.84"
+Believer,Phoenix,50,$566.15
+The Insult,Phoenix,50,"$1,550.40"
+The Hollow,Phoenix,50,$632.82
+Witless Protection,Phoenix,50,"$6,397.36"
+Brother,Phoenix,50,$693.29
+Show Dogs,Phoenix,50,"$27,475.55"
+The Memory of a Killer,Phoenix,50,$514.09
+Amen.,Phoenix,50,$424.72
+Band of Robbers,Phoenix,50,$31.83
+Kill Me Three Times,Phoenix,50,$36.91
+Rob the Mob,Phoenix,50,$320.37
+Elena,Phoenix,50,$36.04
+Bomb City,Phoenix,50,$91.86
+The Zodiac,Phoenix,50,$69.34
+Owning Mahowny,Phoenix,50,"$1,565.50"
+Race 3,Phoenix,50,"$2,618.10"
+Animal Factory,Phoenix,50,$67.83
+Criminal,Phoenix,50,"$22,742.76"
+Serious Moonlight,Phoenix,50,$38.92
+Human Capital,Phoenix,50,$243.62
+Rise: Blood Hunter,Phoenix,50,$164.74
+Point Blank,Phoenix,50,"$1,094.61"
+The Blue Room,Phoenix,50,$357.96
+A Cat in Paris,Phoenix,50,$479.96
+Line of Duty,Phoenix,50,$83.10
+Death House,Phoenix,50,$36.90
+The Reckoning,Phoenix,50,$397.35
+Monsters and Men,Phoenix,50,$774.35
+A War,Phoenix,50,$190.30
+City of Men,Phoenix,50,$475.47
+Kaminey,Phoenix,50,"$1,991.44"
+Kurbaan,Phoenix,50,"$1,167.90"
+The Beat That My Heart Skipped,Phoenix,50,"$1,584.65"
+Panic,Phoenix,50,"$1,206.40"
+Agneepath,Phoenix,50,"$3,068.28"
+Paradise Now,Phoenix,50,"$2,248.87"
+Connie and Carla,Phoenix,50,"$12,471.10"
+Lowriders,Phoenix,50,"$9,531.30"
+The Square,Phoenix,50,$73.04
+10th & Wolf,Phoenix,50,$82.81
+"Scotland, Pa.",Phoenix,50,$594.73
+Dirty,Phoenix,50,$419.73
+Empire,Phoenix,50,"$27,103.80"
+The Samaritan,Phoenix,50,$2.70
+Snow Angels,Phoenix,50,$623.72
+Terribly Happy,Phoenix,50,$108.48
+Wazir,Phoenix,50,$907.40
+Vulgar,Phoenix,50,$23.08
+Zyzzyx Rd,Phoenix,50,$0.05
+Unconditional,Phoenix,50,"$1,557.36"
+Child of God,Phoenix,50,$58.76
+The Child,Phoenix,50,"$1,008.36"
+Chico & Rita,Phoenix,50,$542.75
+The Deep End,Phoenix,50,"$13,659.49"
+Sonchiriya,Phoenix,50,$131.84
+Gun Shy,Phoenix,50,"$2,526.71"
+City of Ghosts,Phoenix,50,$66.67
+Welcome,Phoenix,50,"$1,680.06"
+The Swindlers,Phoenix,50,$374.58
+Badlapur,Phoenix,50,$574.21
+Illegal Tender,Phoenix,50,"$4,729.42"
+The Escapist,Phoenix,50,$20.16
+Dinner Rush,Phoenix,50,$170.32
+Maze,Phoenix,50,$29.54
+Tees Maar Khan,Phoenix,50,"$1,666.47"
+Meeting Evil,Phoenix,50,$0.28
+The Night Listener,Phoenix,50,"$12,117.36"
+Neruda,Phoenix,50,"$1,454.09"
+Stealing Harvard,Phoenix,50,"$21,636.37"
+13,Phoenix,50,$187.96
+You Kill Me,Phoenix,50,"$3,757.69"
+Perrier's Bounty,Phoenix,50,$1.28
+Polisse,Phoenix,50,$265.27
+Shadowboxer,Phoenix,50,$573.87
+Crown Heights,Phoenix,50,$369.38
+Dheepan,Phoenix,50,$383.37
+Khosla Ka Ghosla!,Phoenix,50,$40.99
+Where the Money Is,Phoenix,50,"$8,762.20"
+Casino Jack,Phoenix,50,"$1,610.11"
+I'm Not Scared,Phoenix,50,"$2,500.82"
+Down Terrace,Phoenix,50,$14.88
+Anesthesia,Phoenix,50,$34.66
+Kaante,Phoenix,50,"$1,612.22"
+Cosmos,Phoenix,50,$32.50
+The Crew,Phoenix,50,"$20,158.78"
+Burnt Money,Phoenix,50,$373.91
+Eastern Boys,Phoenix,50,$25.04
+Asura,Phoenix,50,$270.19
+Yardie,Phoenix,50,$55.76
+Brooklyn Rules,Phoenix,50,$616.91
+Pawn,Phoenix,50,$3.31
+Beer for My Horses,Phoenix,50,"$1,031.29"
+Winter of Frozen Dreams,Phoenix,50,$11.36
+I'll Sleep When I'm Dead,Phoenix,50,$555.57
+No Good Deed,Phoenix,50,$281.19
+Big Fan,Phoenix,50,$362.97
+Dylan Dog: Dead of Night,Phoenix,50,"$1,832.28"
+Jindabyne,Phoenix,50,$619.17
+Separate Lies,Phoenix,50,"$1,429.69"
+Ashby,Phoenix,50,$7.17
+Janatha Garage,Phoenix,50,"$186,580.04"
+Oye Lucky! Lucky Oye!,Phoenix,50,$123.93
+Rustom,Phoenix,50,"$1,683.74"
+Simmba,Phoenix,50,"$7,858.99"
+The Masked Saint,Phoenix,50,$191.65
+Singham,Phoenix,50,$534.39
+Shootout at Wadala,Phoenix,50,$571.83
+Honeydripper,Phoenix,50,$414.78
+El Chicano,Phoenix,50,"$2,159.30"
+Killing Cabos,Phoenix,50,$195.30
+Bunty Aur Babli,Phoenix,50,"$1,396.43"
+The Caveman's Valentine,Phoenix,50,"$1,064.04"
+Exiled,Phoenix,50,$76.51
+Drug War,Phoenix,50,$198.00
+The Aura,Phoenix,50,$86.87
+Double Take,Phoenix,50,$31.31
+Macbeth,Phoenix,50,"$1,714.29"
+Race 2,Phoenix,50,"$2,444.89"
+The Walker,Phoenix,50,$119.50
+A Somewhat Gentle Man,Phoenix,50,$58.13
+The Assassination of Richard Nixon,Phoenix,50,"$1,080.40"
+People I Know,Phoenix,50,$188.86
+Shuttle,Phoenix,50,$16.45
+The Hillside Strangler,Phoenix,50,$5.52
+Master,Phoenix,50,$922.29
+Partir,Phoenix,50,$270.49
+Harvard Man,Phoenix,50,$87.72
+On the Other Side of the Tracks,Phoenix,50,$9.17
+Bubble,Phoenix,50,$225.11
+Skins,Phoenix,50,$370.04
+Code Name: The Cleaner,Phoenix,50,"$12,548.20"
+Nobel Son,Phoenix,50,$836.41
+The Fall of the American Empire,Phoenix,50,"$3,373.09"
+Dear Wendy,Phoenix,50,$35.78
+Thin Ice,Phoenix,50,"$1,222.84"
+Married Life,Phoenix,50,"$2,333.41"
+Underclassman,Phoenix,50,"$8,755.76"
+Alone with Her,Phoenix,50,$15.51
+My Brother the Devil,Phoenix,50,$15.96
+Paan Singh Tomar,Phoenix,50,$61.26
+Gosnell: The Trial of America's Biggest Serial Killer,Phoenix,50,"$5,697.88"
+Broken Horses,Phoenix,50,$54.19
+The Assassin's Code,Phoenix,50,"$6,056.06"
+Coastlines,Phoenix,50,$10.05
+Christmas in Wonderland,Phoenix,50,$121.65
+The Girl from the Naked Eye,Phoenix,50,$26.94
+Savage,Phoenix,50,$115.34
+The Lady in the Car with Glasses and a Gun,Phoenix,50,$3.15
+Election 2,Phoenix,50,$84.94
+Rhymes for Young Ghouls,Phoenix,50,$1.41
+Civil Brand,Phoenix,50,$376.79
+Alleluia,Phoenix,50,$9.29
+The Monkey's Mask,Phoenix,50,$70.96
+Turn It Up,Phoenix,50,"$1,927.23"
+Golden Job,Phoenix,50,$442.52
+Even Money,Phoenix,50,$98.96
+A Ciambra,Phoenix,50,$47.98
+The Dancer Upstairs,Phoenix,50,"$3,681.04"
+Mad Detective,Phoenix,50,$7.17
+High Heels and Low Lifes,Phoenix,50,$351.16
+Take,Phoenix,50,$7.91
+Anamorph,Phoenix,50,$9.15
+The Prey,Phoenix,50,$9.77
+Gold Diggers,Phoenix,50,$816.00
+I'm in Love with a Church Girl,Phoenix,50,"$3,685.78"
+The Attack,Phoenix,50,"$2,655.03"
+Baaghi 2,Phoenix,50,"$2,043.21"
+Game,Phoenix,50,$197.82
+Holiday: A Soldier is Never Off Duty,Phoenix,50,"$1,094.54"
+Love the Hard Way,Phoenix,50,$67.46
+The Ardennes,Phoenix,50,$8.73
+The Merry Gentleman,Phoenix,50,$536.18
+Psycho-Pass: The Movie,Phoenix,50,$214.24
+Sleepless Night,Phoenix,50,$5.20
+Fiza,Phoenix,50,$965.87
+The Wasted Times,Phoenix,50,$370.46
+Cold War 2,Phoenix,50,$868.37
+No News from God,Phoenix,50,$119.66
+Weirdsville,Phoenix,50,$11.24
+Nightcap,Phoenix,50,$686.30
+State Property 2,Phoenix,50,"$2,597.77"
+Detective Byomkesh Bakshy!,Phoenix,50,$896.60
+Beauty and the Dogs,Phoenix,50,$13.80
+LUV,Phoenix,50,$214.66
+State Property,Phoenix,50,"$3,251.17"
+The 24th Day,Phoenix,50,$21.84
+Gangnam 1970,Phoenix,50,$27.90
+Carter High,Phoenix,50,$526.78
+The Architect,Phoenix,50,$19.58
+The Mafia Kills Only in Summer,Phoenix,50,$57.50
+Poor White Trash,Phoenix,50,$2.17
+Save the Green Planet!,Phoenix,50,$22.64
+De Dana Dan,Phoenix,50,"$1,463.19"
+Close Your Eyes,Phoenix,50,$60.98
+So Close,Phoenix,50,$118.58
+Assassination Tango,Phoenix,50,"$1,502.22"
+Loosies,Phoenix,50,$5.14
+Time and Tide,Phoenix,50,$145.26
+Blue Caprice,Phoenix,50,$134.32
+Look,Phoenix,50,$24.98
+Khatta Meetha,Phoenix,50,$839.07
+Bluffmaster,Phoenix,50,"$1,113.22"
+Rowdy Rathore,Phoenix,50,"$1,201.52"
+Carancho,Phoenix,50,$132.17
+Welcome Back,Phoenix,50,"$2,149.72"
+Rascals,Phoenix,50,$404.37
+Holy Rollers,Phoenix,50,$468.98
+High on the Hog,Phoenix,50,$70.60
+El Coyote,Phoenix,50,"$1,464.21"
+Operation Mekong,Phoenix,50,"$1,238.72"
+Lights in the Dusk,Phoenix,50,$21.76
+One Two Three,Phoenix,50,$382.02
+12,Phoenix,50,$193.73
+Levity,Phoenix,50,$323.85
+Lajja,Phoenix,50,$582.19
+Sound of Noise,Phoenix,50,$37.74
+Salvation Boulevard,Phoenix,50,$42.50
+As Good as Dead,Phoenix,50,"$1,858.06"
+Love Crime,Phoenix,50,$819.25
+Chasing the Dragon II: Wild Wild Bunch,Phoenix,50,$304.46
+The Man Who Copied,Phoenix,50,$36.50
+Last Ride,Phoenix,50,$8.49
+Raja Natwarlal,Phoenix,50,$203.00
+Talento de barrio,Phoenix,50,"$2,580.80"
+The Prison,Phoenix,50,$320.77
+The Power of Few,Phoenix,50,$47.14
+Victor,Phoenix,50,$172.79
+The Last Godfather,Phoenix,50,$253.30
+Blind Shaft,Phoenix,50,$51.52
+Crimson Gold,Phoenix,50,$228.92
+New York,Phoenix,50,"$1,520.30"
+"Ruben Brandt, Collector",Phoenix,50,$182.65
+King's Ransom,Phoenix,50,"$6,204.22"
+Cronicas,Phoenix,50,$463.37
+The Double Hour,Phoenix,50,"$2,339.44"
+In the Name of My Daughter,Phoenix,50,$426.39
+Yonkers Joe,Phoenix,50,"$15,483.82"
+Singham Returns,Phoenix,50,"$1,906.91"
+ECCO,Phoenix,50,$134.49
+Graceland,Phoenix,50,$32.19
+War of the Worlds: Goliath,Phoenix,50,$20.73
+Dabangg 2,Phoenix,50,"$3,900.67"
+Sarkar Raj,Phoenix,50,"$1,562.42"
+Chrystal,Phoenix,50,$124.96
+Who Is Cletis Tout?,Phoenix,50,$390.54
+Just Another Love Story,Phoenix,50,$69.76
+The R.M.,Phoenix,50,"$1,721.20"
+Gangster's Paradise: Jerusalema,Phoenix,50,$7.68
+Dum Maaro Dum,Phoenix,50,$872.82
+Compadres,Phoenix,50,"$4,808.14"
+Beneath the Harvest Sky,Phoenix,50,$43.53
+Kak Vitka Chesnok vyoz Lyokhu Shtyrya v dom invalidov,Phoenix,50,$6.68
+La Virgen de los Sicarios,Phoenix,50,$813.41
+And Now Ladies & Gentlemen,Phoenix,50,"$1,140.79"
+Red Lights,Phoenix,50,$76.26
+Circus,Phoenix,50,$13.02
+Thoongaavanam,Phoenix,50,$748.39
+Phata Poster Nikhla Hero,Phoenix,50,$604.19
+Paulette,Phoenix,50,$45.67
+Kurukshetra,Phoenix,50,$57.12
+The Hard Word,Phoenix,50,$654.48
+The Tenants,Phoenix,50,$3.11
+Serial Killer 1,Phoenix,50,$15.06
+Pete Smalls Is Dead,Phoenix,50,$15.48
+Ladrón que roba a ladrón,Phoenix,50,"$6,197.11"
+Man on the Train,Phoenix,50,"$3,934.93"
+Least Among Saints,Phoenix,50,$43.39
+Saving Mr. Wu,Phoenix,50,$143.53
+Pickings,Phoenix,50,$101.88
+On the Job,Phoenix,50,$249.63
+Heroes,Phoenix,50,$909.22
+Once in the Life,Phoenix,50,$82.77
+First We Take Brooklyn,Phoenix,50,$66.29
+Small Town Murder Songs,Phoenix,50,$47.78
+Fulltime Killer,Phoenix,50,$23.21
+Trixie,Phoenix,50,$442.25
+'P' fung bou,Phoenix,50,$505.87
+Next Time I'll Aim for the Heart,Phoenix,50,$1.11
+Death Valley,Phoenix,50,$6.73
+How to Be a Serial Killer,Phoenix,50,$1.39
+"No God, No Master",Phoenix,50,$10.43
+Made in France,Phoenix,50,$14.83
+Ajami,Phoenix,50,$961.92
+Nobody Else But You,Phoenix,50,$65.93
+The Eyes,Phoenix,50,$14.10
+Bangkok Dangerous,Phoenix,50,$36.08
+Jilla,Phoenix,50,$356.47
+Cowboys & Angels,Phoenix,50,$52.18
+Ash Wednesday,Phoenix,50,$4.56
+Who Knows?,Phoenix,50,"$1,404.88"
+No Problem,Phoenix,50,$374.89
+Madame Satã,Phoenix,50,$306.86
+Live Free or Die,Phoenix,50,$19.67
+The Man in 3B,Phoenix,50,$448.37
+Golden Slumber,Phoenix,50,$106.21
+The Robber,Phoenix,50,$127.23
+N-Secure,Phoenix,50,"$4,014.66"
+Sky on Fire,Phoenix,50,$120.21
+The Road,Phoenix,50,$185.81
+Phantom Detective,Phoenix,50,$103.76
+Noise,Phoenix,50,$25.02
+Money,Phoenix,50,"$1,582.38"
+Leonera,Phoenix,50,$21.20
+Mio fratello è figlio unico,Phoenix,50,$388.65
+16 Years of Alcohol,Phoenix,50,$11.64
+Hate Crime,Phoenix,50,$63.11
+"Police, Adjective",Phoenix,50,$74.78
+Ek Aur Ek Gyarah: By Hook or by Crook,Phoenix,50,$142.98
+Go for Sisters,Phoenix,50,$86.65
+Tazza: The Hidden Card,Phoenix,50,$386.59
+Three,Phoenix,50,$101.42
+Headshot,Phoenix,50,$0.71
+'R Xmas,Phoenix,50,$1.32
+Vaada,Phoenix,50,$137.81
+Junction 48,Phoenix,50,$19.81
+Black Souls,Phoenix,50,$155.02
+BuyBust,Phoenix,50,$276.34
+Nicotina,Phoenix,50,"$1,239.28"
+Cover,Phoenix,50,$123.00
+Brigham City,Phoenix,50,"$1,319.54"
+Sicilian Ghost Story,Phoenix,50,$23.67
+Lucky Break,Phoenix,50,$84.55
+The Attacks of 26/11,Phoenix,50,$384.53
+Extraordinary Mission,Phoenix,50,$44.36
+My Kingdom,Phoenix,50,$4.04
+Ice Blues,Phoenix,50,$1.03
+Hukkle,Phoenix,50,$77.56
+King of the Jungle,Phoenix,50,$42.06
+Shikari,Phoenix,50,$63.04
+Snowman's Land,Phoenix,50,$1.74
+La soga,Phoenix,50,$326.13
+Krazzy 4,Phoenix,50,$754.39
+Secuestro express,Phoenix,50,$468.01
+La siciliana ribelle,Phoenix,50,$107.32
+The Killing of John Lennon,Phoenix,50,$10.33
+Love and a Bullet,Phoenix,50,$26.09
+Goodland,Phoenix,50,$49.77
+Shock to the System,Phoenix,50,$5.67
+Bulgarian Lovers,Phoenix,50,$92.04
+"On the Other Hand, Death",Phoenix,50,$3.75
+The Advocate: A Missing Body,Phoenix,50,$70.08
+Death of a President,Phoenix,50,$803.74
+Green is Gold,Phoenix,50,$0.66
+Gimme the Loot,Phoenix,50,$151.38
+Water & Power,Phoenix,50,$122.39
+À Tout de Suite,Phoenix,50,$383.44
+Difret,Phoenix,50,$59.53
+Tycoon: A New Russian,Phoenix,50,$187.38
+A Cool Fish,Phoenix,50,$854.51
+"Lucía, Lucía",Phoenix,50,$414.18
+Gang,Phoenix,50,$44.77
+The Ministers,Phoenix,50,$4.40
+By Hook or by Crook,Phoenix,50,$2.79
+Inspector Bellamy,Phoenix,50,$163.96
+Intersection,Phoenix,50,$7.14
+Wasabi Tuna,Phoenix,50,$78.44
+Splinter,Phoenix,50,$20.00
+Settai,Phoenix,50,$135.11
+Chronicle of an Escape,Phoenix,50,$2.02
+Randy and the Mob,Phoenix,50,$69.83
+Out the Gate,Phoenix,50,$2.44
+High Times Potluck,Phoenix,50,$7.47
+Bonnie & Clyde vs. Dracula,Phoenix,50,$38.75
+Conspiracy of Silence,Phoenix,50,$4.02
+Valley of Bones,Phoenix,50,$261.27
+The Witness,Phoenix,50,$246.16
+The Dukes,Phoenix,50,$40.50
+United Red Army,Phoenix,50,$2.71
+Ethan Mao,Phoenix,50,$10.59
+Outta Time,Phoenix,50,$6.27
+Mercy Streets,Phoenix,50,$266.30
+Mr. X,Phoenix,50,$46.60
+Lost in Hong Kong,Phoenix,50,"$2,016.43"
+Nowhere Man,Phoenix,50,$3.64
+Day Night Day Night,Phoenix,50,$49.20
+Fakers,Phoenix,50,$76.17
+The Code,Phoenix,50,$19.88
+Murder.com,Phoenix,50,$3.21
+Gasoline,Phoenix,50,$6.67
+Viva Riva!,Phoenix,50,$95.63
+Steel City,Phoenix,50,$15.84
+Bank$tas,Phoenix,50,$23.13
+Big Muddy,Phoenix,50,$1.24
+An Act of War,Phoenix,50,$176.52
+New World Order,Phoenix,50,$31.12
+Cavale,Phoenix,50,$100.33
+Line Walker 2: Invisible Spy,Phoenix,50,$447.94
+Après la vie,Phoenix,50,$40.51
+Mr. Smith Gets a Hustler,Phoenix,50,$2.45
+This Last Lonely Place,Phoenix,50,$31.30
+Sunrise,Phoenix,50,$1.55
+The Fuzz,Phoenix,50,$9.39
+Undoing,Phoenix,50,$69.68
+3 Holes and a Smoking Gun,Phoenix,50,$27.87
+Mi America,Phoenix,50,$5.16
+Cavite,Phoenix,50,$108.50
+Virgil Bliss,Phoenix,50,$2.27
+Rightways Down,Phoenix,50,$9.68
+Shadow Glories,Phoenix,50,$35.48
+Daylight,Phoenix,50,$6.01
+In Echo Park,Phoenix,50,$9.36
+Justice Is Mind,Phoenix,50,$0.52
+Dark Meridian,Phoenix,50,$7.43
+Ridge Runners,Phoenix,50,$39.89
+Autumn,Phoenix,50,$16.30
+Mumbai Mirror,Phoenix,50,$7.05
+Forgive Me Father,Phoenix,50,$679.59
+I Recorded a Murder!,Phoenix,50,$2.32
+Winning Formula,Phoenix,50,$33.84

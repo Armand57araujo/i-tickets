@@ -1,0 +1,1351 @@
+movie,city,theater_count,estimated_city_gross
+Knives Out,New York,50,"$1,397,345.41"
+The Wolf of Wall Street,New York,50,"$987,850.11"
+The Dark Knight,New York,50,"$4,519,733.43"
+American Psycho,New York,50,"$127,348.97"
+John Wick,New York,50,"$363,684.16"
+The Gentlemen,New York,50,"$308,198.91"
+F9: The Fast Saga,New York,50,"$1,463,621.64"
+Nobody,New York,50,"$230,424.05"
+Prisoners,New York,50,"$515,489.93"
+Catch Me If You Can,New York,50,"$1,391,054.98"
+Joker,New York,50,"$2,834,676.20"
+The Fast and the Furious,New York,50,"$1,221,360.19"
+In Bruges,New York,50,"$65,550.35"
+No Country for Old Men,New York,50,"$627,721.57"
+The Departed,New York,50,"$1,118,691.91"
+Kingsman: The Golden Circle,New York,50,"$847,018.03"
+The Grand Budapest Hotel,New York,50,"$499,417.53"
+"Three Billboards Outside Ebbing, Missouri",New York,50,"$460,659.41"
+Irreversible,New York,50,"$6,367.34"
+White Chicks,New York,50,"$598,552.15"
+Sicario,New York,50,"$396,230.27"
+John Wick: Chapter 3 - Parabellum,New York,50,"$1,445,139.97"
+The Irishman,New York,50,"$59,152.35"
+Baywatch,New York,50,"$490,628.07"
+Mystic River,New York,50,"$761,672.63"
+Snatch,New York,50,"$256,283.10"
+John Wick: Chapter 2,New York,50,"$777,677.50"
+American Hustle,New York,50,"$1,268,545.87"
+Enough,New York,50,"$338,078.85"
+Road to Perdition,New York,50,"$882,677.81"
+Baby Driver,New York,50,"$911,164.74"
+City of God,New York,50,"$63,913.24"
+The Hateful Eight,New York,50,"$457,310.33"
+House of Gucci,New York,50,"$454,708.97"
+Batman Begins,New York,50,"$1,747,972.50"
+The Equalizer,New York,50,"$857,968.82"
+Wind River,New York,50,"$285,628.61"
+The Longest Yard,New York,50,"$1,336,162.52"
+21 Jump Street,New York,50,"$1,169,929.27"
+Kill Bill: Vol. 1,New York,50,"$592,360.47"
+Murder on the Orient Express,New York,50,"$868,918.81"
+Now You See Me,New York,50,"$994,807.23"
+Zootopia,New York,50,"$2,883,831.27"
+Legend,New York,50,"$15,827.43"
+Hell or High Water,New York,50,"$226,996.72"
+Nightcrawler,New York,50,"$273,632.16"
+Zodiac,New York,50,"$279,537.82"
+Spotlight,New York,50,"$380,736.43"
+Knock Knock,New York,50,$307.05
+We're the Millers,New York,50,"$1,270,880.80"
+Furious 7,New York,50,"$2,983,027.84"
+Minority Report,New York,50,"$1,116,060.57"
+Fast & Furious,New York,50,"$1,310,345.10"
+Seven Psychopaths,New York,50,"$126,958.26"
+The Nice Guys,New York,50,"$306,424.07"
+The Town,New York,50,"$779,004.87"
+Training Day,New York,50,"$647,565.34"
+Fantastic Mr. Fox,New York,50,"$177,481.72"
+Ocean's Eight,New York,50,"$1,184,895.19"
+Sin City,New York,50,"$626,202.16"
+Inside Man,New York,50,"$747,968.75"
+Den of Thieves,New York,50,"$379,822.50"
+The Fate of the Furious,New York,50,"$1,909,846.73"
+Hannibal,New York,50,"$1,395,085.09"
+Kick-Ass,New York,50,"$406,218.65"
+Gangs of New York,New York,50,"$657,537.53"
+Ocean's Eleven,New York,50,"$1,549,936.50"
+Bad Times at the El Royale,New York,50,"$150,746.51"
+Birds of Prey,New York,50,"$711,167.25"
+2 Fast 2 Furious,New York,50,"$1,074,501.61"
+Army of the Dead,New York,50,"$8,450.34"
+Gone Baby Gone,New York,50,"$171,543.66"
+Crash,New York,50,"$461,221.86"
+The Girl with the Dragon Tattoo,New York,50,"$866,292.87"
+Memories of Murder,New York,50,$119.41
+Chicago,New York,50,"$1,442,366.83"
+Fast Five,New York,50,"$1,773,198.81"
+"O Brother, Where Art Thou?",New York,50,"$384,596.65"
+Cruella,New York,50,"$727,601.24"
+The House That Jack Built,New York,50,$735.25
+Law Abiding Citizen,New York,50,"$619,776.46"
+The Fast and the Furious: Tokyo Drift,New York,50,"$528,267.80"
+Bad Boys II,New York,50,"$1,171,287.89"
+The Iceman,New York,50,"$16,388.93"
+City of Lies,New York,50,"$4,837.76"
+The Equalizer 2,New York,50,"$862,647.13"
+Swimming Pool,New York,50,"$85,394.91"
+Hustlers,New York,50,"$886,977.64"
+John Q,New York,50,"$606,369.07"
+Bad Boys for Life,New York,50,"$1,743,348.58"
+Taken,New York,50,"$1,225,307.04"
+21,New York,50,"$685,823.88"
+Molly's Game,New York,50,"$243,206.95"
+BlacKkKlansman,New York,50,"$416,393.17"
+Layer Cake,New York,50,"$19,762.76"
+Game Night,New York,50,"$584,586.33"
+American Gangster,New York,50,"$1,099,934.95"
+Man on Fire,New York,50,"$658,380.65"
+The Assassination of Jesse James by the Coward Robert Ford,New York,50,"$32,998.41"
+Mr. & Mrs. Smith,New York,50,"$1,574,604.12"
+Traffic,New York,50,"$1,048,819.55"
+A History of Violence,New York,50,"$266,133.03"
+The Other Guys,New York,50,"$1,007,448.84"
+Sicario: Day of the Soldado,New York,50,"$423,127.20"
+Furious 6,New York,50,"$2,016,924.87"
+Central Intelligence,New York,50,"$1,076,918.15"
+The Lincoln Lawyer,New York,50,"$490,197.22"
+A Simple Favor,New York,50,"$452,503.53"
+The Place Beyond the Pines,New York,50,"$180,696.05"
+RED,New York,50,"$763,742.71"
+Jack Reacher: Never Go Back,New York,50,"$496,010.00"
+Collateral,New York,50,"$853,532.10"
+Despicable Me,New York,50,"$2,125,377.62"
+The Drop,New York,50,"$90,624.69"
+Wanted,New York,50,"$1,136,642.42"
+Kill Bill: Vol. 2,New York,50,"$559,481.38"
+Now You See Me 2,New York,50,"$549,910.16"
+Slumdog Millionaire,New York,50,"$1,194,200.84"
+Under the Silver Lake,New York,50,$389.42
+The Italian Job,New York,50,"$896,822.31"
+Step Up,New York,50,"$552,044.56"
+Focus,New York,50,"$455,160.12"
+Cold Pursuit,New York,50,"$271,584.17"
+Horrible Bosses,New York,50,"$993,240.29"
+American Made,New York,50,"$433,857.14"
+The Girl on the Train,New York,50,"$637,113.36"
+Faster,New York,50,"$196,385.97"
+Red Dragon,New York,50,"$787,147.91"
+Logan Lucky,New York,50,"$234,758.58"
+War Dogs,New York,50,"$363,656.17"
+Don't Breathe,New York,50,"$753,921.00"
+Southpaw,New York,50,"$442,983.10"
+Side Effects,New York,50,"$271,870.60"
+Fruitvale Station,New York,50,"$136,032.17"
+22 Jump Street,New York,50,"$1,620,092.77"
+Burn After Reading,New York,50,"$510,022.95"
+3:10 to Yuma,New York,50,"$452,996.44"
+Broken City,New York,50,"$166,481.45"
+Running Scared,New York,50,"$57,928.21"
+RocknRolla,New York,50,"$48,119.60"
+Captain Phillips,New York,50,"$905,038.18"
+Out of the Furnace,New York,50,"$95,715.57"
+Minions,New York,50,"$2,839,699.58"
+Green Room,New York,50,"$27,201.88"
+Lucky Number Slevin,New York,50,"$190,085.97"
+Spring Breakers,New York,50,"$119,350.62"
+S.W.A.T.,New York,50,"$988,137.05"
+Pineapple Express,New York,50,"$738,063.99"
+Savages,New York,50,"$400,394.38"
+I Saw the Devil,New York,50,"$1,084.96"
+Point Break,New York,50,"$243,221.63"
+Monster,New York,50,"$291,276.40"
+Lawless,New York,50,"$316,043.63"
+The Hate U Give,New York,50,"$251,139.61"
+Black Mass,New York,50,"$528,785.49"
+Widows,New York,50,"$358,316.48"
+End of Watch,New York,50,"$346,492.25"
+The Forever Purge,New York,50,"$376,371.57"
+Perfume: The Story of a Murderer,New York,50,"$18,787.57"
+Eastern Promises,New York,50,"$144,626.50"
+The Hitman's Bodyguard,New York,50,"$637,734.86"
+Megamind,New York,50,"$1,254,163.79"
+Dogville,New York,50,"$12,932.28"
+The Mexican,New York,50,"$564,555.23"
+Rambo: Last Blood,New York,50,"$159,482.50"
+The Cell,New York,50,"$518,293.39"
+Smokin' Aces,New York,50,"$301,362.05"
+Four Brothers,New York,50,"$629,502.53"
+Blow,New York,50,"$447,789.84"
+The Pledge,New York,50,"$166,640.03"
+Gone in 60 Seconds,New York,50,"$858,964.55"
+Inferno,New York,50,"$290,214.73"
+Ghost in the Shell,New York,50,"$342,775.68"
+The Mule,New York,50,"$877,182.09"
+The Danish Girl,New York,50,"$93,917.18"
+Deja Vu,New York,50,"$541,147.81"
+The Punisher,New York,50,"$284,626.52"
+Felon,New York,50,$310.60
+Blackhat,New York,50,"$59,973.09"
+Dredd,New York,50,"$113,358.84"
+Public Enemies,New York,50,"$820,566.64"
+The Guard,New York,50,"$45,291.89"
+Funny Games,New York,50,"$10,940.14"
+The Snowman,New York,50,"$56,370.20"
+Miss Congeniality,New York,50,"$902,560.65"
+Sin City: A Dame to Kill For,New York,50,"$116,258.06"
+Super Troopers,New York,50,"$156,232.46"
+Tell No One,New York,50,"$52,199.35"
+In the Bedroom,New York,50,"$303,625.67"
+Good Time,New York,50,"$17,124.60"
+R.I.P.D.,New York,50,"$284,090.61"
+The Heat,New York,50,"$1,348,523.07"
+Runaway Jury,New York,50,"$417,815.26"
+Daredevil,New York,50,"$866,527.17"
+The Bank Job,New York,50,"$254,022.67"
+Bronson,New York,50,$885.53
+The Raid: Redemption,New York,50,"$34,690.21"
+The Brothers Grimsby,New York,50,"$58,003.24"
+Lord of War,New York,50,"$204,072.50"
+Papillon,New York,50,"$19,739.11"
+Austin Powers in Goldmember,New York,50,"$1,802,523.28"
+Ocean's Twelve,New York,50,"$1,060,891.32"
+The Girl in the Spider's Web,New York,50,"$125,414.29"
+Hitman,New York,50,"$335,374.34"
+The Old Man & the Gun,New York,50,"$95,295.45"
+Live by Night,New York,50,"$87,702.27"
+Before the Devil Knows You're Dead,New York,50,"$59,853.94"
+Alpha Dog,New York,50,"$128,692.91"
+Fracture,New York,50,"$329,690.00"
+Crank,New York,50,"$235,171.78"
+Kiss Kiss Bang Bang,New York,50,"$35,861.16"
+Bolt,New York,50,"$963,791.04"
+Freedom Writers,New York,50,"$309,329.63"
+The Girl with the Dragon Tattoo,New York,50,"$85,307.58"
+Charlie's Angels,New York,50,"$1,058,873.93"
+Inherent Vice,New York,50,"$68,540.46"
+The Transporter,New York,50,"$213,763.47"
+The Pink Panther,New York,50,"$694,841.31"
+RoboCop,New York,50,"$495,248.89"
+Walking Tall,New York,50,"$392,414.30"
+Ocean's Thirteen,New York,50,"$989,996.75"
+CHIPS,New York,50,"$157,177.53"
+Going in Style,New York,50,"$380,421.79"
+The American,New York,50,"$300,885.83"
+Frequency,New York,50,"$380,351.96"
+The Family,New York,50,"$311,976.35"
+Killing Them Softly,New York,50,"$126,975.22"
+Muppets Most Wanted,New York,50,"$432,514.49"
+The Best Offer,New York,50,$721.94
+Calvary,New York,50,"$30,365.94"
+The Taking of Pelham 123,New York,50,"$553,094.01"
+Pain & Gain,New York,50,"$421,462.95"
+You Were Never Really Here,New York,50,"$21,325.35"
+Be Cool,New York,50,"$473,615.79"
+Kick-Ass 2,New York,50,"$243,335.74"
+Horrible Bosses 2,New York,50,"$460,081.55"
+Chappie,New York,50,"$266,770.91"
+Triple 9,New York,50,"$106,701.59"
+Stand Up Guys,New York,50,"$27,894.95"
+Miami Vice,New York,50,"$536,177.77"
+Boiler Room,New York,50,"$143,133.30"
+Don't Breathe 2,New York,50,"$275,802.38"
+The Judge,New York,50,"$398,174.65"
+War,New York,50,"$190,017.71"
+Brick,New York,50,"$17,412.67"
+Despicable Me 2,New York,50,"$3,110,241.26"
+21 Grams,New York,50,"$137,659.99"
+Bastille Day,New York,50,$329.56
+The Next Three Days,New York,50,"$178,713.20"
+Takers,New York,50,"$487,962.27"
+The Number 23,New York,50,"$297,394.08"
+Drishyam,New York,50,"$6,248.84"
+All the Money in the World,New York,50,"$212,156.79"
+White Boy Rick,New York,50,"$202,902.60"
+Identity Thief,New York,50,"$1,136,628.63"
+Halloween,New York,50,"$1,346,493.53"
+Green Street Hooligans,New York,50,"$2,907.72"
+Machete,New York,50,"$224,725.24"
+The Big Bounce,New York,50,"$54,685.45"
+Regression,New York,50,$462.52
+Panic Room,New York,50,"$814,589.84"
+Revolver,New York,50,$637.32
+Once Upon a Time in Mexico,New York,50,"$476,259.06"
+The Hunted,New York,50,"$289,327.76"
+Frailty,New York,50,"$110,731.75"
+A Most Violent Year,New York,50,"$48,507.55"
+"Roman J. Israel, Esq.",New York,50,"$101,088.93"
+Tower Heist,New York,50,"$659,519.72"
+Despicable Me 3,New York,50,"$2,236,164.18"
+Phone Booth,New York,50,"$393,500.13"
+RED 2,New York,50,"$450,086.51"
+ATL,New York,50,"$178,809.86"
+Official Secrets,New York,50,"$3,342.20"
+Deliver Us from Evil,New York,50,"$258,386.95"
+The Whole Nine Yards,New York,50,"$483,887.28"
+Man on a Ledge,New York,50,"$157,345.25"
+Notes on a Scandal,New York,50,"$147,954.14"
+Disturbia,New York,50,"$677,798.83"
+The Mechanic,New York,50,"$246,086.44"
+Super,New York,50,"$2,722.33"
+The Raid 2,New York,50,"$22,200.80"
+Big Eyes,New York,50,"$122,358.97"
+Homefront,New York,50,"$170,346.03"
+Gangster Squad,New York,50,"$388,723.07"
+Shoplifters,New York,50,"$28,000.30"
+Elephant,New York,50,"$10,368.56"
+Hoodwinked!,New York,50,"$434,234.12"
+Snowden,New York,50,"$182,421.78"
+The Black Dahlia,New York,50,"$190,287.41"
+Sexy Beast,New York,50,"$58,696.51"
+Into the Blue,New York,50,"$156,097.67"
+Rush Hour 2,New York,50,"$1,911,164.15"
+Nerve,New York,50,"$326,044.59"
+Miss Congeniality 2: Armed & Fabulous,New York,50,"$409,655.43"
+Heartbreakers,New York,50,"$340,857.87"
+This Is England,New York,50,"$2,771.03"
+The Devil's Rejects,New York,50,"$144,035.81"
+A Scanner Darkly,New York,50,"$46,490.50"
+The Raven,New York,50,"$135,275.27"
+30 Minutes or Less,New York,50,"$313,118.10"
+Wild Card,New York,50,$27.04
+The Score,New York,50,"$600,564.38"
+Lady Vengeance,New York,50,"$1,788.66"
+The Texas Chainsaw Massacre,New York,50,"$680,857.54"
+Let's Be Cops,New York,50,"$696,229.70"
+The Infiltrator,New York,50,"$130,353.78"
+Everybody Knows,New York,50,"$22,479.29"
+The Losers,New York,50,"$199,265.13"
+Intolerable Cruelty,New York,50,"$298,530.32"
+Only God Forgives,New York,50,"$6,579.14"
+Bully,New York,50,"$12,993.83"
+Confessions of a Dangerous Mind,New York,50,"$135,235.59"
+A Single Man,New York,50,"$77,463.07"
+Dancer in the Dark,New York,50,"$35,356.51"
+Snakes on a Plane,New York,50,"$287,487.30"
+Swordfish,New York,50,"$589,605.01"
+Changeling,New York,50,"$302,013.33"
+Notorious,New York,50,"$311,341.48"
+The Ghost Writer,New York,50,"$131,331.31"
+Mechanic: Resurrection,New York,50,"$179,302.63"
+Border,New York,50,"$6,523.07"
+The Bling Ring,New York,50,"$49,358.80"
+Michael Clayton,New York,50,"$414,352.77"
+Dope,New York,50,"$147,662.07"
+A Walk Among the Tombstones,New York,50,"$222,308.05"
+Super Troopers 2,New York,50,"$258,727.28"
+Capote,New York,50,"$242,926.62"
+Awake,New York,50,"$121,492.15"
+The Hangover Part III,New York,50,"$948,128.28"
+Taken 2,New York,50,"$1,181,815.68"
+Big Momma's House,New York,50,"$993,416.72"
+Compliance,New York,50,"$2,692.46"
+Jigsaw,New York,50,"$321,559.21"
+Street Kings,New York,50,"$223,246.61"
+Machete Kills,New York,50,"$67,671.65"
+The Hurricane Heist,New York,50,"$51,680.77"
+The Counselor,New York,50,"$143,433.59"
+Filth,New York,50,$290.02
+Patriots Day,New York,50,"$269,450.46"
+National Security,New York,50,"$302,226.11"
+Charlie's Angels: Full Throttle,New York,50,"$852,048.29"
+Holmes & Watson,New York,50,"$258,357.40"
+Mother,New York,50,"$4,624.80"
+The Hustle,New York,50,"$299,285.86"
+Transporter 2,New York,50,"$364,172.29"
+Spy Game,New York,50,$227.07
+The Gambler,New York,50,"$284,615.69"
+Sabotage,New York,50,"$88,800.51"
+Hitman: Agent 47,New York,50,"$189,857.50"
+The Life of David Gale,New York,50,"$165,573.68"
+Scoob!,New York,50,"$18,492.93"
+Elektra,New York,50,"$206,270.35"
+The Guilty,New York,50,"$1,750.40"
+A Most Wanted Man,New York,50,"$145,660.50"
+Parker,New York,50,"$148,866.53"
+Death to Smoochy,New York,50,"$70,609.44"
+Gold,New York,50,"$61,070.90"
+Killer Elite,New York,50,"$212,314.57"
+Masterminds,New York,50,"$146,671.58"
+Baby Boy,New York,50,"$242,816.61"
+Taken 3,New York,50,"$754,246.75"
+The Man Who Wasn't There,New York,50,"$63,333.99"
+Rush Hour 3,New York,50,"$1,184,111.48"
+Lilya 4-Ever,New York,50,"$1,535.05"
+Crank: High Voltage,New York,50,"$115,179.99"
+Little Man,New York,50,"$495,570.38"
+Hotel Artemis,New York,50,"$56,686.09"
+Mean Creek,New York,50,"$5,103.59"
+Date Night,New York,50,"$834,144.51"
+Matchstick Men,New York,50,"$311,871.98"
+Unleashed,New York,50,"$207,209.77"
+Killshot,New York,50,$143.71
+American Animals,New York,50,"$24,142.22"
+Hannibal Rising,New York,50,"$233,829.12"
+Flawless,New York,50,"$10,142.38"
+All Good Things,New York,50,"$4,887.52"
+Kill the Irishman,New York,50,"$10,036.56"
+Kiss of the Dragon,New York,50,"$311,353.67"
+Gridiron Gang,New York,50,"$324,770.26"
+Animal Kingdom,New York,50,"$8,822.48"
+Get Hard,New York,50,"$764,007.13"
+Shaft,New York,50,"$594,348.09"
+Assassination Nation,New York,50,"$16,555.93"
+Get Rich or Die Tryin',New York,50,"$261,807.03"
+Shaft,New York,50,"$180,500.99"
+Blue Ruin,New York,50,"$2,181.14"
+Starsky & Hutch,New York,50,"$745,638.65"
+Infernal Affairs,New York,50,"$1,433.68"
+Taking Lives,New York,50,"$276,176.76"
+Can You Ever Forgive Me?,New York,50,"$74,395.62"
+Osmosis Jones,New York,50,"$114,898.46"
+Taxi,New York,50,"$309,375.80"
+Beirut,New York,50,"$42,414.14"
+Catwoman,New York,50,"$339,723.60"
+Andhadhun,New York,50,"$11,610.28"
+Hustle & Flow,New York,50,"$187,611.28"
+Derailed,New York,50,"$304,415.54"
+Beast,New York,50,"$6,763.35"
+Thoroughbreds,New York,50,"$23,921.00"
+After the Sunset,New York,50,"$239,408.43"
+CBGB,New York,50,$338.35
+New York Minute,New York,50,"$118,459.88"
+Veronica Mars,New York,50,"$28,047.59"
+Sympathy for Mr. Vengeance,New York,50,$382.71
+The Three Burials of Melquiades Estrada,New York,50,"$42,448.36"
+The Happytime Murders,New York,50,"$174,976.47"
+Stuber,New York,50,"$189,037.83"
+True Story,New York,50,"$39,883.01"
+Hostage,New York,50,"$292,719.11"
+London Fields,New York,50,"$2,135.20"
+Tangerine,New York,50,"$5,930.76"
+Four Lions,New York,50,"$2,570.06"
+Spun,New York,50,"$3,466.67"
+The Sentinel,New York,50,"$306,584.07"
+A Nightmare on Elm Street,New York,50,"$533,005.02"
+Peter Rabbit,New York,50,"$973,930.13"
+Safe,New York,50,"$144,856.33"
+Fun with Dick and Jane,New York,50,"$932,348.67"
+Max Payne,New York,50,"$343,839.03"
+Redemption,New York,50,$295.39
+Death Wish,New York,50,"$287,455.31"
+Mindhunters,New York,50,"$37,863.79"
+Mr. Brooks,New York,50,"$240,633.61"
+The Watcher,New York,50,"$244,448.95"
+State of Play,New York,50,"$312,814.15"
+The Art of Self-Defense,New York,50,"$20,373.03"
+Ride Along,New York,50,"$1,140,273.09"
+Heist,New York,50,$399.19
+The Producers,New York,50,"$163,748.30"
+Baise-moi,New York,50,$48.95
+Machine Gun Preacher,New York,50,"$4,552.11"
+The Spirit,New York,50,"$167,163.52"
+The Man from Nowhere,New York,50,$54.59
+One for the Money,New York,50,"$223,211.62"
+The House,New York,50,"$216,197.65"
+'71,New York,50,"$10,721.45"
+Extract,New York,50,"$91,383.49"
+Romeo Must Die,New York,50,"$472,993.48"
+Saw III,New York,50,"$678,044.16"
+Gigli,New York,50,"$51,282.85"
+Mortdecai,New York,50,"$64,270.45"
+Trance,New York,50,"$19,597.91"
+Ichi the Killer,New York,50,$171.42
+The International,New York,50,"$215,065.50"
+Bad Santa,New York,50,"$507,529.94"
+Saw 3D,New York,50,"$386,266.35"
+Perfect Stranger,New York,50,"$202,680.87"
+Destroyer,New York,50,"$12,957.10"
+The Paperboy,New York,50,"$5,853.04"
+Paul Blart: Mall Cop,New York,50,"$175,928.63"
+The Perfect Score,New York,50,"$87,779.60"
+The Book of Henry,New York,50,"$35,656.50"
+Kidnap,New York,50,"$259,578.32"
+Righteous Kill,New York,50,"$338,701.37"
+Saving Silverman,New York,50,"$163,527.26"
+Trust,New York,50,"$1,014.18"
+Hunger,New York,50,"$1,302.06"
+Analyze That,New York,50,"$271,443.79"
+Murder by Numbers,New York,50,"$269,952.30"
+I Love You Phillip Morris,New York,50,"$17,201.22"
+Punisher: War Zone,New York,50,"$67,164.61"
+Where the Truth Lies,New York,50,"$7,364.70"
+Under Suspicion,New York,50,"$2,186.03"
+Cellular,New York,50,"$270,441.33"
+Bernie,New York,50,"$77,770.06"
+Ong-Bak: The Thai Warrior,New York,50,"$38,534.05"
+Assault on Precinct 13,New York,50,"$168,804.52"
+Femme Fatale,New York,50,"$55,705.48"
+Dead Man's Shoes,New York,50,$50.81
+Bad Samaritan,New York,50,"$29,027.30"
+Out of Time,New York,50,"$345,663.32"
+Horns,New York,50,"$1,389.91"
+The Gunman,New York,50,"$89,917.02"
+Premium Rush,New York,50,"$171,334.33"
+Sin Nombre,New York,50,"$21,416.12"
+The Condemned,New York,50,$31.42
+Malibu's Most Wanted,New York,50,"$289,921.73"
+"The Gangster, the Cop, the Devil",New York,50,"$1,829.45"
+Detroit,New York,50,"$141,882.31"
+Eye See You,New York,50,$668.94
+Child 44,New York,50,"$10,192.25"
+The Glass House,New York,50,"$152,116.45"
+Duplicity,New York,50,"$342,853.99"
+Appaloosa,New York,50,"$170,755.96"
+Cosmopolis,New York,50,"$6,283.97"
+The Quiet,New York,50,"$3,221.15"
+Fanboys,New York,50,"$5,818.30"
+Paid in Full,New York,50,"$25,707.51"
+Gotti,New York,50,"$36,701.73"
+Keanu,New York,50,"$173,792.37"
+Headhunters,New York,50,"$10,112.96"
+Death Sentence,New York,50,"$80,567.68"
+Elite Squad,New York,50,$68.11
+Domino,New York,50,"$85,933.17"
+A Man Apart,New York,50,"$221,256.81"
+Agent Cody Banks,New York,50,"$405,094.98"
+Kill List,New York,50,$222.22
+The Clovehitch Killer,New York,50,$69.36
+The Rover,New York,50,"$9,373.10"
+Deception,New York,50,"$38,852.62"
+The Pink Panther 2,New York,50,"$303,561.23"
+Run All Night,New York,50,"$223,609.78"
+House of Sand and Fog,New York,50,"$109,900.71"
+The Bad Lieutenant: Port of Call - New Orleans,New York,50,"$14,348.30"
+Breach,New York,50,"$280,815.34"
+The Fifth Estate,New York,50,"$27,498.85"
+Marshall,New York,50,"$84,939.89"
+The Brave One,New York,50,"$310,920.00"
+Bandits,New York,50,"$351,323.90"
+High Crimes,New York,50,"$351,054.05"
+Alex Cross,New York,50,"$218,765.77"
+The Brothers Bloom,New York,50,"$29,742.03"
+Irrational Man,New York,50,"$34,035.96"
+Red State,New York,50,"$9,334.93"
+Blonde and Blonder,New York,50,$356.46
+Saw IV,New York,50,"$534,907.06"
+Lizzie,New York,50,"$5,426.44"
+London Boulevard,New York,50,$58.40
+Control,New York,50,"$2,004.28"
+Miss Bala,New York,50,"$126,812.70"
+Batman: The Killing Joke,New York,50,"$31,900.02"
+Basic,New York,50,"$224,239.12"
+Charlie Says,New York,50,$333.81
+Big Momma's House 2,New York,50,"$592,926.02"
+The Snowtown Murders,New York,50,$67.70
+Untraceable,New York,50,"$242,421.84"
+Harsh Times,New York,50,"$28,206.64"
+The Proposition,New York,50,"$16,061.76"
+Runner Runner,New York,50,"$163,232.14"
+Starred Up,New York,50,$288.16
+Dahmer,New York,50,"$1,216.92"
+A Prophet,New York,50,"$17,615.88"
+Vantage Point,New York,50,"$610,674.55"
+Hot Pursuit,New York,50,"$291,596.40"
+Suburbicon,New York,50,"$48,802.19"
+In the Fade,New York,50,"$2,712.65"
+Free Fire,New York,50,"$15,197.69"
+The Green Hornet,New York,50,"$834,724.52"
+Joe,New York,50,"$3,155.14"
+The Ladykillers,New York,50,"$336,316.53"
+Reindeer Games,New York,50,"$197,406.43"
+Torque,New York,50,"$179,274.37"
+Kangaroo Jack,New York,50,"$565,622.91"
+Term Life,New York,50,$110.19
+Nothing But the Truth,New York,50,$25.73
+"Big Mommas: Like Father, Like Son",New York,50,"$320,397.98"
+In the Valley of Elah,New York,50,"$57,274.19"
+Hollywoodland,New York,50,"$121,813.47"
+Secret in Their Eyes,New York,50,"$170,529.09"
+Primeval,New York,50,"$89,554.41"
+3-Iron,New York,50,"$2,015.46"
+Memoir of a Murderer,New York,50,$771.81
+Cop Out,New York,50,"$379,212.88"
+Gomorrah,New York,50,"$13,331.58"
+White Girl,New York,50,"$1,677.33"
+Son of a Gun,New York,50,$11.92
+Brooklyn's Finest,New York,50,"$229,464.02"
+The Girl Who Played with Fire,New York,50,"$76,744.11"
+Harry Brown,New York,50,"$15,368.47"
+From Paris with Love,New York,50,"$202,636.86"
+Crossing Over,New York,50,"$3,837.71"
+12 Rounds,New York,50,"$103,372.42"
+Street Fighter: The Legend of Chun-Li,New York,50,"$73,875.04"
+Chopper,New York,50,"$1,979.57"
+The Whole Ten Yards,New York,50,"$137,943.02"
+Leviathan,New York,50,"$9,234.53"
+Wonderland,New York,50,"$8,924.42"
+P2,New York,50,"$33,736.60"
+Money Monster,New York,50,"$346,565.80"
+Raees,New York,50,"$27,573.06"
+In Secret,New York,50,"$3,551.39"
+Peter Rabbit 2: The Runaway,New York,50,"$342,253.11"
+Bad Education,New York,50,"$44,041.81"
+We Own the Night,New York,50,"$241,368.45"
+Sugar & Spice,New York,50,"$112,194.71"
+Don 2,New York,50,"$31,099.82"
+Super Dark Times,New York,50,$279.78
+The X Files: I Want to Believe,New York,50,"$177,308.98"
+3000 Miles to Graceland,New York,50,"$132,996.72"
+xXx: State of the Union,New York,50,"$227,093.75"
+Trespass,New York,50,$142.10
+The Informant!,New York,50,"$281,510.95"
+Skiptrace,New York,50,$15.14
+Don,New York,50,"$6,797.35"
+Man of the House,New York,50,"$166,469.13"
+The Whistleblower,New York,50,"$9,472.10"
+Blood Work,New York,50,"$221,394.72"
+99 Homes,New York,50,"$11,922.71"
+The Killer Inside Me,New York,50,"$1,816.53"
+Loving Pablo,New York,50,$186.05
+Transsiberian,New York,50,"$18,621.51"
+Kill the Messenger,New York,50,"$20,710.47"
+The Way of the Gun,New York,50,"$51,172.37"
+Ride Along 2,New York,50,"$770,855.09"
+Saw V,New York,50,"$479,529.25"
+Two for the Money,New York,50,"$193,191.99"
+No Good Deed,New York,50,"$444,011.33"
+Young Adam,New York,50,"$6,483.44"
+Texas Killing Fields,New York,50,$382.65
+Exit Wounds,New York,50,"$437,377.54"
+Narc,New York,50,"$88,391.26"
+Just Getting Started,New York,50,"$51,290.20"
+Undisputed,New York,50,"$107,865.64"
+Gemini,New York,50,"$1,692.94"
+Crocodile Dundee in Los Angeles,New York,50,"$216,630.12"
+Paul Blart: Mall Cop 2,New York,50,"$600,296.56"
+Life of Crime,New York,50,"$2,211.41"
+Postal,New York,50,"$152,149.97"
+Dark Blue,New York,50,"$76,556.56"
+Madea Goes to Jail,New York,50,"$764,630.60"
+Fighting,New York,50,"$194,664.64"
+Cowboy Bebop: The Movie,New York,50,"$8,450.72"
+Gringo,New York,50,"$41,996.93"
+Blindspotting,New York,50,"$36,618.63"
+The Conspirator,New York,50,"$97,501.70"
+Wild Target,New York,50,$990.29
+Oliver Twist,New York,50,"$16,793.24"
+The Salton Sea,New York,50,"$6,460.74"
+Mesrine: Killer Instinct,New York,50,"$4,661.71"
+The Kitchen,New York,50,"$101,820.27"
+Bel Ami,New York,50,"$1,013.36"
+Bullet to the Head,New York,50,"$80,141.47"
+SuperFly,New York,50,"$173,613.13"
+Drillbit Taylor,New York,50,"$277,624.29"
+Lakeview Terrace,New York,50,"$331,789.81"
+A Kind of Murder,New York,50,$15.26
+An Evening with Beverly Luff Linn,New York,50,$44.04
+Contraband,New York,50,"$562,183.94"
+Proud Mary,New York,50,"$176,347.00"
+Nurse Betty,New York,50,"$212,671.88"
+Alan Partridge,New York,50,"$1,286.23"
+The Protector,New York,50,"$100,605.63"
+Nancy Drew,New York,50,"$216,434.39"
+Party Monster,New York,50,"$6,153.98"
+Blood Ties,New York,50,$348.40
+Firewall,New York,50,"$411,963.92"
+Lions for Lambs,New York,50,"$126,779.15"
+Highwaymen,New York,50,"$3,101.50"
+Captive,New York,50,"$21,613.15"
+88 Minutes,New York,50,"$143,071.65"
+The Girl Who Kicked the Hornet's Nest,New York,50,"$45,865.75"
+Balls of Fury,New York,50,"$277,545.28"
+The Tribe,New York,50,"$1,272.32"
+Dead Man Down,New York,50,"$91,947.48"
+The East,New York,50,"$19,167.86"
+In Order of Disappearance,New York,50,$416.47
+Formula 51,New York,50,"$43,975.61"
+New World,New York,50,"$3,868.61"
+District B13,New York,50,"$10,121.69"
+Master Z: The Ip Man Legacy,New York,50,"$52,471.97"
+The Crimson Rivers,New York,50,"$5,345.24"
+The Fanatic,New York,50,$26.64
+Drowning Mona,New York,50,"$130,364.95"
+The Dinner,New York,50,"$11,178.43"
+Unstoppable,New York,50,$832.43
+Hollywood Homicide,New York,50,"$253,622.85"
+Find Me Guilty,New York,50,"$9,917.93"
+Nine Queens,New York,50,"$10,320.07"
+The Lookout,New York,50,"$38,876.49"
+American Pastoral,New York,50,"$4,575.49"
+Badla,New York,50,"$15,726.07"
+Saving Grace,New York,50,"$102,382.21"
+The Interpreter,New York,50,"$614,408.37"
+Adam's Apples,New York,50,$11.03
+Pride and Glory,New York,50,"$132,749.58"
+Showtime,New York,50,"$321,811.70"
+The Invisible,New York,50,"$173,809.20"
+The Hitcher,New York,50,"$139,202.05"
+Ned Kelly,New York,50,$632.63
+Middle Men,New York,50,"$6,115.63"
+Scoop,New York,50,"$88,945.84"
+Ted Bundy,New York,50,$51.32
+Brick Mansions,New York,50,"$171,419.44"
+The Villainess,New York,50,$234.42
+Suspect Zero,New York,50,"$73,736.05"
+8 Women,New York,50,"$25,996.82"
+Whiteout,New York,50,"$86,832.59"
+Our Kind of Traitor,New York,50,"$26,641.58"
+Cheap Thrills,New York,50,$501.77
+Reservation Road,New York,50,"$1,030.89"
+Cold in July,New York,50,"$3,503.70"
+Get Carter,New York,50,"$126,477.71"
+Talvar,New York,50,"$2,893.14"
+Intermission,New York,50,"$7,579.89"
+Cradle 2 the Grave,New York,50,"$293,330.99"
+The Disappearance of Alice Creed,New York,50,"$1,411.04"
+Raging Fire,New York,50,"$3,255.96"
+The Skulls,New York,50,"$296,151.48"
+Never Goin' Back,New York,50,$517.76
+Hoodwinked Too! Hood vs. Evil,New York,50,"$85,718.34"
+L.I.E.,New York,50,"$9,648.84"
+Silent House,New York,50,"$106,095.91"
+Catch That Kid,New York,50,"$141,144.81"
+The Burning Plain,New York,50,"$1,693.44"
+Once Upon a Time in Anatolia,New York,50,"$1,172.32"
+The Clan,New York,50,"$1,573.92"
+The Informers,New York,50,"$2,535.10"
+Observe and Report,New York,50,"$202,754.02"
+Easy Money,New York,50,"$1,596.01"
+The Baader Meinhof Complex,New York,50,"$4,024.64"
+Mesrine: Public Enemy No. 1,New York,50,"$2,324.90"
+City by the Sea,New York,50,"$189,574.11"
+A Guide to Recognizing Your Saints,New York,50,"$4,361.55"
+Bitch Slap,New York,50,$146.74
+Rang De Basanti,New York,50,"$18,568.18"
+Auto Focus,New York,50,"$17,425.15"
+Dorm Daze,New York,50,$474.29
+Heaven Knows What,New York,50,$676.15
+Let's Go to Prison,New York,50,"$38,988.29"
+Millions,New York,50,"$55,629.82"
+Trade,New York,50,"$1,810.08"
+Dogman,New York,50,"$1,252.55"
+Made,New York,50,"$44,860.36"
+King Cobra,New York,50,$240.88
+Freedomland,New York,50,"$105,738.09"
+"OSS 117: Cairo, Nest of Spies",New York,50,"$2,558.36"
+Mad Money,New York,50,"$174,658.66"
+Traitor,New York,50,"$198,843.42"
+Cecil B. Demented,New York,50,"$10,855.69"
+Haider,New York,50,"$7,618.91"
+Extreme Job,New York,50,"$13,232.25"
+Mean Machine,New York,50,$783.94
+All About Lily Chou-Chou,New York,50,$209.96
+The Air I Breathe,New York,50,$217.81
+Twisted,New York,50,"$212,906.63"
+Delhi Belly,New York,50,"$12,943.86"
+Antitrust,New York,50,"$92,659.70"
+Little Woods,New York,50,"$1,267.63"
+The Yards,New York,50,"$7,459.20"
+Big Trouble,New York,50,"$61,368.77"
+Infamous,New York,50,"$9,721.29"
+Pawn Shop Chronicles,New York,50,$41.53
+Elite Squad 2: The Enemy Within,New York,50,$846.04
+Dhoom 2,New York,50,"$22,339.19"
+"Love, Honor and Obey",New York,50,$9.66
+Reno 911!: Miami,New York,50,"$171,898.09"
+Cop Car,New York,50,"$1,081.66"
+Veronica Guerin,New York,50,"$13,279.74"
+Trapped,New York,50,$528.45
+Deadfall,New York,50,$556.07
+Trash,New York,50,$86.45
+God Bless America,New York,50,"$1,031.19"
+The Nut Job,New York,50,"$542,947.09"
+Cassandra's Dream,New York,50,"$8,210.02"
+Sightseers,New York,50,$301.86
+Paparazzi,New York,50,"$132,772.28"
+Stolen,New York,50,"$2,571.59"
+Breaking and Entering,New York,50,"$7,850.02"
+Dirty Pretty Things,New York,50,"$68,543.72"
+The Art of the Steal,New York,50,$519.24
+Collide,New York,50,"$19,266.80"
+The Perfect Host,New York,50,$409.25
+Lonely Hearts,New York,50,"$1,593.44"
+Tragedy Girls,New York,50,$523.07
+15 Minutes,New York,50,"$206,218.21"
+Chi-Raq,New York,50,"$22,371.22"
+Pathology,New York,50,$918.23
+Max Keeble's Big Move,New York,50,"$146,126.43"
+God's Pocket,New York,50,$882.22
+Leaves of Grass,New York,50,$574.70
+Paranoid Park,New York,50,"$4,107.04"
+Taxi 2,New York,50,"$6,167.43"
+Rampart,New York,50,"$8,190.39"
+Conviction,New York,50,"$57,319.72"
+Stockholm,New York,50,"$2,552.72"
+Pink,New York,50,"$10,488.75"
+Ittefaq,New York,50,"$2,518.47"
+Dom Hemingway,New York,50,"$4,378.41"
+Racer and the Jailbird,New York,50,$391.56
+Feardotcom,New York,50,"$111,612.23"
+Kings,New York,50,"$2,320.76"
+The Singing Detective,New York,50,"$2,843.17"
+Man from Reno,New York,50,$785.19
+Robot & Frank,New York,50,"$28,102.76"
+Bad Santa 2,New York,50,"$150,265.37"
+Lila dit ça,New York,50,"$1,023.89"
+The Sweeney,New York,50,$222.62
+Absolutely Fabulous: The Movie,New York,50,"$40,143.29"
+Vera Drake,New York,50,"$31,720.92"
+The Blind Swordsman: Zatoichi,New York,50,"$7,214.20"
+Keeping Mum,New York,50,"$13,680.73"
+The Negotiation,New York,50,$928.32
+The Counterfeiters,New York,50,"$46,347.68"
+The Trial,New York,50,$162.64
+Wasabi,New York,50,$688.91
+Battle in Heaven,New York,50,$599.12
+Burke and Hare,New York,50,$40.84
+Birthday Girl,New York,50,"$41,574.77"
+Dabangg,New York,50,"$39,147.16"
+One Night at McCool's,New York,50,"$53,158.30"
+The Matador,New York,50,"$106,429.43"
+The Dead Girl,New York,50,$146.28
+Dhoom 3,New York,50,"$67,872.72"
+The Weight of Water,New York,50,$867.19
+Better Luck Tomorrow,New York,50,"$32,131.47"
+Maria Full of Grace,New York,50,"$55,072.51"
+Lila & Eve,New York,50,$320.56
+The Quarry,New York,50,$17.86
+Tsotsi,New York,50,"$24,610.45"
+Heaven,New York,50,"$6,543.24"
+Bones,New York,50,"$61,752.99"
+Welcome to the Punch,New York,50,$57.35
+The Silence,New York,50,$842.11
+Dhoom,New York,50,"$2,076.72"
+Frozen River,New York,50,"$21,200.55"
+The Angels' Share,New York,50,"$2,571.92"
+Escobar: Paradise Lost,New York,50,$903.08
+The Son of No One,New York,50,$243.96
+What's the Worst That Could Happen?,New York,50,"$271,216.21"
+Omar,New York,50,"$3,008.32"
+Spartan,New York,50,"$37,472.44"
+Falcon Rising,New York,50,$73.44
+Killerman,New York,50,"$2,340.73"
+Confidence,New York,50,"$103,199.02"
+Bullhead,New York,50,"$1,283.10"
+Crypto,New York,50,$86.14
+Flypaper,New York,50,$9.28
+Ernest & Celestine,New York,50,"$2,472.25"
+Waist Deep,New York,50,"$180,145.90"
+The Limits of Control,New York,50,"$3,591.60"
+Bless the Child,New York,50,"$248,221.67"
+The Nile Hilton Incident,New York,50,$685.23
+The Thieves,New York,50,"$5,795.57"
+First Sunday,New York,50,"$320,537.03"
+Pieta,New York,50,$185.33
+Beyond a Reasonable Doubt,New York,50,$273.87
+Buster's Mal Heart,New York,50,$613.68
+Knockaround Guys,New York,50,"$98,297.85"
+Buffalo Soldiers,New York,50,"$2,989.25"
+Black Friday,New York,50,$287.31
+JCVD,New York,50,"$3,977.50"
+All About the Benjamins,New York,50,"$215,339.32"
+Raid,New York,50,"$8,538.09"
+El Angel,New York,50,$798.40
+Skin Trade,New York,50,$10.50
+Sleuth,New York,50,"$2,897.07"
+The Villain,New York,50,"$3,499.42"
+The Third Murder,New York,50,$754.74
+Talaash: The Answer Lies Within,New York,50,"$22,869.78"
+Surveillance,New York,50,$231.11
+Captivity,New York,50,"$22,197.34"
+Little Fish,New York,50,$68.85
+The Vault,New York,50,$48.40
+Sophie Scholl: The Final Days,New York,50,"$5,713.84"
+The Cat's Meow,New York,50,"$27,121.19"
+Julia,New York,50,$17.83
+Shangri-La Suite,New York,50,$112.76
+Nothing Bad Can Happen,New York,50,$39.54
+Chapter 27,New York,50,$470.72
+Micmacs,New York,50,"$10,655.17"
+Fabricated City,New York,50,$886.22
+Taxi 3,New York,50,"$4,201.57"
+Henry's Crime,New York,50,$860.94
+The Nut Job 2: Nutty by Nature,New York,50,"$239,740.44"
+Madea's Witness Protection,New York,50,"$554,791.94"
+Echelon Conspiracy,New York,50,"$4,226.47"
+Kung Fu Jungle,New York,50,"$1,091.07"
+Home Room,New York,50,$44.08
+Seeking Justice,New York,50,$347.15
+Omkara,New York,50,"$6,673.18"
+Shanghai,New York,50,$377.64
+Mini's First Time,New York,50,$413.33
+The Man,New York,50,"$70,357.79"
+Domestic Disturbance,New York,50,"$382,344.69"
+Priceless,New York,50,"$12,672.17"
+Corky Romano,New York,50,"$202,625.55"
+Half Past Dead,New York,50,"$129,810.15"
+Highway,New York,50,"$4,471.38"
+Screwed,New York,50,"$59,383.42"
+Carandiru,New York,50,"$1,807.98"
+Redacted,New York,50,$552.55
+A Single Shot,New York,50,$84.67
+Sweet Country,New York,50,$807.93
+Unknown,New York,50,"$1,220.20"
+Next Day Air,New York,50,"$84,647.36"
+Greenfingers,New York,50,"$12,162.46"
+Welcome to Collinwood,New York,50,"$2,822.21"
+Crazy on the Outside,New York,50,$544.52
+Gozu,New York,50,$459.86
+The Adderall Diaries,New York,50,$95.38
+Never Die Alone,New York,50,"$47,698.55"
+Graduation,New York,50,"$1,487.05"
+Birds of Passage,New York,50,"$4,271.44"
+Goldstone,New York,50,$730.13
+See Spot Run,New York,50,"$281,881.87"
+Race,New York,50,"$11,551.81"
+Stander,New York,50,$161.12
+Raajneeti,New York,50,"$12,138.04"
+Mystery Team,New York,50,$651.74
+Donkey Punch,New York,50,$155.30
+Bangkok Dangerous,New York,50,"$129,118.43"
+Hey Ram,New York,50,"$2,321.10"
+Armored,New York,50,"$135,111.37"
+Kick,New York,50,"$20,796.54"
+Take Me,New York,50,$21.83
+The Art of War,New York,50,"$255,272.80"
+Reclaim,New York,50,$30.42
+The Bag Man,New York,50,$412.52
+Shade,New York,50,$280.76
+Closed Circuit,New York,50,"$48,448.39"
+Ain't Them Bodies Saints,New York,50,"$3,275.40"
+Gangster No. 1,New York,50,$261.24
+Pierrepoint: The Last Hangman,New York,50,$183.93
+Ballistic: Ecks vs. Sever,New York,50,"$120,796.21"
+Lucky Numbers,New York,50,"$84,623.64"
+Read My Lips,New York,50,"$11,485.13"
+Violet & Daisy,New York,50,$145.23
+Tracers,New York,50,$16.90
+The Curse of the Jade Scorpion,New York,50,"$63,348.13"
+Shootout at Lokhandwala,New York,50,"$2,444.11"
+The Alphabet Killer,New York,50,$251.68
+The Barbarian Invasions,New York,50,"$29,004.44"
+Jiang hu er nü,New York,50,"$3,514.96"
+Small Time Crooks,New York,50,"$144,257.63"
+District 13: Ultimatum,New York,50,$304.54
+Idlewild,New York,50,"$106,047.36"
+Out of Blue,New York,50,$132.32
+Beautiful Creatures,New York,50,$467.99
+The Good Thief,New York,50,"$29,726.57"
+Flash Point,New York,50,$27.64
+The Oxford Murders,New York,50,$30.48
+Ed Gein,New York,50,$48.23
+The Ice Harvest,New York,50,"$74,524.01"
+The Package,New York,50,$12.41
+Haven,New York,50,"$1,156.20"
+Novocaine,New York,50,"$17,210.65"
+Stolen,New York,50,$61.74
+Sleight,New York,50,"$32,510.89"
+The Unknown Girl,New York,50,"$1,272.19"
+OSS 117: Lost in Rio,New York,50,$738.16
+Veteran,New York,50,"$10,145.70"
+Run with the Hunted,New York,50,$95.13
+Sweet Sixteen,New York,50,$266.51
+Dragon,New York,50,$94.11
+Stuck,New York,50,$567.46
+Defendor,New York,50,$375.72
+Bait,New York,50,"$129,502.47"
+Sonny,New York,50,$149.06
+Batla House,New York,50,"$4,167.54"
+Special 26,New York,50,"$9,121.03"
+In the Mix,New York,50,"$85,393.02"
+Believer,New York,50,"$3,089.77"
+The Insult,New York,50,"$8,461.36"
+The Hollow,New York,50,"$3,453.61"
+Witless Protection,New York,50,"$34,913.75"
+Brother,New York,50,"$3,783.64"
+Show Dogs,New York,50,"$149,948.55"
+The Memory of a Killer,New York,50,"$2,805.64"
+Amen.,New York,50,"$2,317.92"
+Band of Robbers,New York,50,$173.70
+Kill Me Three Times,New York,50,$201.46
+Rob the Mob,New York,50,"$1,748.45"
+Elena,New York,50,$196.71
+Bomb City,New York,50,$501.35
+The Zodiac,New York,50,$378.45
+Owning Mahowny,New York,50,"$8,543.75"
+Race 3,New York,50,"$14,288.34"
+Animal Factory,New York,50,$370.17
+Criminal,New York,50,"$124,119.19"
+Serious Moonlight,New York,50,$212.42
+Human Capital,New York,50,"$1,329.54"
+Rise: Blood Hunter,New York,50,$899.10
+Point Blank,New York,50,"$5,973.86"
+The Blue Room,New York,50,"$1,953.60"
+A Cat in Paris,New York,50,"$2,619.38"
+Line of Duty,New York,50,$453.51
+Death House,New York,50,$201.40
+The Reckoning,New York,50,"$2,168.53"
+Monsters and Men,New York,50,"$4,226.02"
+A War,New York,50,"$1,038.56"
+City of Men,New York,50,"$2,594.90"
+Kaminey,New York,50,"$10,868.34"
+Kurbaan,New York,50,"$6,373.82"
+The Beat That My Heart Skipped,New York,50,"$8,648.28"
+Panic,New York,50,"$6,583.97"
+Agneepath,New York,50,"$16,745.23"
+Paradise Now,New York,50,"$12,273.28"
+Connie and Carla,New York,50,"$68,061.37"
+Lowriders,New York,50,"$52,017.31"
+The Square,New York,50,$398.64
+10th & Wolf,New York,50,$451.93
+"Scotland, Pa.",New York,50,"$3,245.76"
+Dirty,New York,50,"$2,290.70"
+Empire,New York,50,"$147,919.70"
+The Samaritan,New York,50,$14.74
+Snow Angels,New York,50,"$3,403.96"
+Terribly Happy,New York,50,$592.02
+Wazir,New York,50,"$4,952.13"
+Vulgar,New York,50,$125.94
+Zyzzyx Rd,New York,50,$0.25
+Unconditional,New York,50,"$8,499.35"
+Child of God,New York,50,$320.68
+The Child,New York,50,"$5,503.15"
+Chico & Rita,New York,50,"$2,962.05"
+The Deep End,New York,50,"$74,547.02"
+Sonchiriya,New York,50,$719.53
+Gun Shy,New York,50,"$13,789.59"
+City of Ghosts,New York,50,$363.88
+Welcome,New York,50,"$9,168.98"
+The Swindlers,New York,50,"$2,044.27"
+Badlapur,New York,50,"$3,133.75"
+Illegal Tender,New York,50,"$25,810.96"
+The Escapist,New York,50,$110.05
+Dinner Rush,New York,50,$929.54
+Maze,New York,50,$161.24
+Tees Maar Khan,New York,50,"$9,094.81"
+Meeting Evil,New York,50,$1.53
+The Night Listener,New York,50,"$66,130.81"
+Neruda,New York,50,"$7,935.72"
+Stealing Harvard,New York,50,"$118,081.04"
+13,New York,50,"$1,025.79"
+You Kill Me,New York,50,"$20,507.71"
+Perrier's Bounty,New York,50,$7.00
+Polisse,New York,50,"$1,447.71"
+Shadowboxer,New York,50,"$3,131.92"
+Crown Heights,New York,50,"$2,015.90"
+Dheepan,New York,50,"$2,092.28"
+Khosla Ka Ghosla!,New York,50,$223.70
+Where the Money Is,New York,50,"$47,819.94"
+Casino Jack,New York,50,"$8,787.24"
+I'm Not Scared,New York,50,"$13,648.29"
+Down Terrace,New York,50,$81.20
+Anesthesia,New York,50,$189.17
+Kaante,New York,50,"$8,798.73"
+Cosmos,New York,50,$177.38
+The Crew,New York,50,"$110,017.06"
+Burnt Money,New York,50,"$2,040.62"
+Eastern Boys,New York,50,$136.67
+Asura,New York,50,"$1,474.59"
+Yardie,New York,50,$304.31
+Brooklyn Rules,New York,50,"$3,366.78"
+Pawn,New York,50,$18.06
+Beer for My Horses,New York,50,"$5,628.30"
+Winter of Frozen Dreams,New York,50,$61.97
+I'll Sleep When I'm Dead,New York,50,"$3,032.01"
+No Good Deed,New York,50,"$1,534.58"
+Big Fan,New York,50,"$1,980.94"
+Dylan Dog: Dead of Night,New York,50,"$9,999.74"
+Jindabyne,New York,50,"$3,379.11"
+Separate Lies,New York,50,"$7,802.59"
+Ashby,New York,50,$39.13
+Janatha Garage,New York,50,"$1,018,265.46"
+Oye Lucky! Lucky Oye!,New York,50,$676.34
+Rustom,New York,50,"$9,189.06"
+Simmba,New York,50,"$42,890.62"
+The Masked Saint,New York,50,"$1,045.96"
+Singham,New York,50,"$2,916.42"
+Shootout at Wadala,New York,50,"$3,120.79"
+Honeydripper,New York,50,"$2,263.68"
+El Chicano,New York,50,"$11,784.46"
+Killing Cabos,New York,50,"$1,065.86"
+Bunty Aur Babli,New York,50,"$7,621.08"
+The Caveman's Valentine,New York,50,"$5,807.02"
+Exiled,New York,50,$417.56
+Drug War,New York,50,"$1,080.60"
+The Aura,New York,50,$474.09
+Double Take,New York,50,$170.85
+Macbeth,New York,50,"$9,355.77"
+Race 2,New York,50,"$13,343.05"
+The Walker,New York,50,$652.17
+A Somewhat Gentle Man,New York,50,$317.25
+The Assassination of Richard Nixon,New York,50,"$5,896.30"
+People I Know,New York,50,"$1,030.70"
+Shuttle,New York,50,$89.78
+The Hillside Strangler,New York,50,$30.13
+Master,New York,50,"$5,033.43"
+Partir,New York,50,"$1,476.22"
+Harvard Man,New York,50,$478.74
+On the Other Side of the Tracks,New York,50,$50.05
+Bubble,New York,50,"$1,228.53"
+Skins,New York,50,"$2,019.52"
+Code Name: The Cleaner,New York,50,"$68,482.10"
+Nobel Son,New York,50,"$4,564.73"
+The Fall of the American Empire,New York,50,"$18,408.72"
+Dear Wendy,New York,50,$195.25
+Thin Ice,New York,50,"$6,673.67"
+Married Life,New York,50,"$12,734.64"
+Underclassman,New York,50,"$47,784.76"
+Alone with Her,New York,50,$84.66
+My Brother the Devil,New York,50,$87.08
+Paan Singh Tomar,New York,50,$334.35
+Gosnell: The Trial of America's Biggest Serial Killer,New York,50,"$31,096.33"
+Broken Horses,New York,50,$295.76
+The Assassin's Code,New York,50,"$33,051.11"
+Coastlines,New York,50,$54.84
+Christmas in Wonderland,New York,50,$663.91
+The Girl from the Naked Eye,New York,50,$147.04
+Savage,New York,50,$629.47
+The Lady in the Car with Glasses and a Gun,New York,50,$17.18
+Election 2,New York,50,$463.54
+Rhymes for Young Ghouls,New York,50,$7.68
+Civil Brand,New York,50,"$2,056.36"
+Alleluia,New York,50,$50.71
+The Monkey's Mask,New York,50,$387.25
+Turn It Up,New York,50,"$10,517.93"
+Golden Job,New York,50,"$2,415.06"
+Even Money,New York,50,$540.07
+A Ciambra,New York,50,$261.86
+The Dancer Upstairs,New York,50,"$20,089.39"
+Mad Detective,New York,50,$39.12
+High Heels and Low Lifes,New York,50,"$1,916.47"
+Take,New York,50,$43.17
+Anamorph,New York,50,$49.96
+The Prey,New York,50,$53.32
+Gold Diggers,New York,50,"$4,453.33"
+I'm in Love with a Church Girl,New York,50,"$20,115.22"
+The Attack,New York,50,"$14,489.88"
+Baaghi 2,New York,50,"$11,150.89"
+Game,New York,50,"$1,079.61"
+Holiday: A Soldier is Never Off Duty,New York,50,"$5,973.48"
+Love the Hard Way,New York,50,$368.19
+The Ardennes,New York,50,$47.64
+The Merry Gentleman,New York,50,"$2,926.23"
+Psycho-Pass: The Movie,New York,50,"$1,169.24"
+Sleepless Night,New York,50,$28.38
+Fiza,New York,50,"$5,271.24"
+The Wasted Times,New York,50,"$2,021.79"
+Cold War 2,New York,50,"$4,739.15"
+No News from God,New York,50,$653.05
+Weirdsville,New York,50,$61.37
+Nightcap,New York,50,"$3,745.51"
+State Property 2,New York,50,"$14,177.41"
+Detective Byomkesh Bakshy!,New York,50,"$4,893.21"
+Beauty and the Dogs,New York,50,$75.33
+LUV,New York,50,"$1,171.50"
+State Property,New York,50,"$17,743.33"
+The 24th Day,New York,50,$119.21
+Gangnam 1970,New York,50,$152.29
+Carter High,New York,50,"$2,874.92"
+The Architect,New York,50,$106.85
+The Mafia Kills Only in Summer,New York,50,$313.79
+Poor White Trash,New York,50,$11.86
+Save the Green Planet!,New York,50,$123.58
+De Dana Dan,New York,50,"$7,985.39"
+Close Your Eyes,New York,50,$332.78
+So Close,New York,50,$647.16
+Assassination Tango,New York,50,"$8,198.39"
+Loosies,New York,50,$28.04
+Time and Tide,New York,50,$792.79
+Blue Caprice,New York,50,$733.06
+Look,New York,50,$136.35
+Khatta Meetha,New York,50,"$4,579.27"
+Bluffmaster,New York,50,"$6,075.42"
+Rowdy Rathore,New York,50,"$6,557.30"
+Carancho,New York,50,$721.35
+Welcome Back,New York,50,"$11,732.15"
+Rascals,New York,50,"$2,206.86"
+Holy Rollers,New York,50,"$2,559.49"
+High on the Hog,New York,50,$385.33
+El Coyote,New York,50,"$7,990.95"
+Operation Mekong,New York,50,"$6,760.37"
+Lights in the Dusk,New York,50,$118.78
+One Two Three,New York,50,"$2,084.90"
+12,New York,50,"$1,057.31"
+Levity,New York,50,"$1,767.40"
+Lajja,New York,50,"$3,177.33"
+Sound of Noise,New York,50,$205.99
+Salvation Boulevard,New York,50,$231.92
+As Good as Dead,New York,50,"$10,140.40"
+Love Crime,New York,50,"$4,471.10"
+Chasing the Dragon II: Wild Wild Bunch,New York,50,"$1,661.62"
+The Man Who Copied,New York,50,$199.20
+Last Ride,New York,50,$46.31
+Raja Natwarlal,New York,50,"$1,107.88"
+Talento de barrio,New York,50,"$14,084.76"
+The Prison,New York,50,"$1,750.63"
+The Power of Few,New York,50,$257.26
+Victor,New York,50,$943.01
+The Last Godfather,New York,50,"$1,382.40"
+Blind Shaft,New York,50,$281.16
+Crimson Gold,New York,50,"$1,249.33"
+New York,New York,50,"$8,297.10"
+"Ruben Brandt, Collector",New York,50,$996.83
+King's Ransom,New York,50,"$33,859.70"
+Cronicas,New York,50,"$2,528.86"
+The Double Hour,New York,50,"$12,767.55"
+In the Name of My Daughter,New York,50,"$2,327.02"
+Yonkers Joe,New York,50,"$84,503.36"
+Singham Returns,New York,50,"$10,407.01"
+ECCO,New York,50,$733.98
+Graceland,New York,50,$175.69
+War of the Worlds: Goliath,New York,50,$113.11
+Dabangg 2,New York,50,"$21,288.00"
+Sarkar Raj,New York,50,"$8,526.94"
+Chrystal,New York,50,$681.95
+Who Is Cletis Tout?,New York,50,"$2,131.40"
+Just Another Love Story,New York,50,$380.74
+The R.M.,New York,50,"$9,393.52"
+Gangster's Paradise: Jerusalema,New York,50,$41.90
+Dum Maaro Dum,New York,50,"$4,763.45"
+Compadres,New York,50,"$26,240.57"
+Beneath the Harvest Sky,New York,50,$237.59
+Kak Vitka Chesnok vyoz Lyokhu Shtyrya v dom invalidov,New York,50,$36.43
+La Virgen de los Sicarios,New York,50,"$4,439.21"
+And Now Ladies & Gentlemen,New York,50,"$6,225.89"
+Red Lights,New York,50,$416.19
+Circus,New York,50,$71.03
+Thoongaavanam,New York,50,"$4,084.38"
+Phata Poster Nikhla Hero,New York,50,"$3,297.38"
+Paulette,New York,50,$249.23
+Kurukshetra,New York,50,$311.72
+The Hard Word,New York,50,"$3,571.86"
+The Tenants,New York,50,$16.99
+Serial Killer 1,New York,50,$82.21
+Pete Smalls Is Dead,New York,50,$84.50
+Ladrón que roba a ladrón,New York,50,"$33,820.89"
+Man on the Train,New York,50,"$21,475.01"
+Least Among Saints,New York,50,$236.83
+Saving Mr. Wu,New York,50,$783.31
+Pickings,New York,50,$556.03
+On the Job,New York,50,"$1,362.34"
+Heroes,New York,50,"$4,962.09"
+Once in the Life,New York,50,$451.70
+First We Take Brooklyn,New York,50,$361.78
+Small Town Murder Songs,New York,50,$260.76
+Fulltime Killer,New York,50,$126.69
+Trixie,New York,50,"$2,413.57"
+'P' fung bou,New York,50,"$2,760.82"
+Next Time I'll Aim for the Heart,New York,50,$6.03
+Death Valley,New York,50,$36.71
+How to Be a Serial Killer,New York,50,$7.60
+"No God, No Master",New York,50,$56.94
+Made in France,New York,50,$80.93
+Ajami,New York,50,"$5,249.69"
+Nobody Else But You,New York,50,$359.82
+The Eyes,New York,50,$76.93
+Bangkok Dangerous,New York,50,$196.89
+Jilla,New York,50,"$1,945.44"
+Cowboys & Angels,New York,50,$284.78
+Ash Wednesday,New York,50,$24.86
+Who Knows?,New York,50,"$7,667.18"
+No Problem,New York,50,"$2,045.96"
+Madame Satã,New York,50,"$1,674.70"
+Live Free or Die,New York,50,$107.37
+The Man in 3B,New York,50,"$2,447.01"
+Golden Slumber,New York,50,$579.65
+The Robber,New York,50,$694.38
+N-Secure,New York,50,"$21,910.10"
+Sky on Fire,New York,50,$656.08
+The Road,New York,50,"$1,014.04"
+Phantom Detective,New York,50,$566.30
+Noise,New York,50,$136.53
+Money,New York,50,"$8,635.91"
+Leonera,New York,50,$115.68
+Mio fratello è figlio unico,New York,50,"$2,121.07"
+16 Years of Alcohol,New York,50,$63.50
+Hate Crime,New York,50,$344.42
+"Police, Adjective",New York,50,$408.13
+Ek Aur Ek Gyarah: By Hook or by Crook,New York,50,$780.32
+Go for Sisters,New York,50,$472.91
+Tazza: The Hidden Card,New York,50,"$2,109.81"
+Three,New York,50,$553.50
+Headshot,New York,50,$3.85
+'R Xmas,New York,50,$7.18
+Vaada,New York,50,$752.08
+Junction 48,New York,50,$108.12
+Black Souls,New York,50,$846.05
+BuyBust,New York,50,"$1,508.14"
+Nicotina,New York,50,"$6,763.40"
+Cover,New York,50,$671.26
+Brigham City,New York,50,"$7,201.43"
+Sicilian Ghost Story,New York,50,$129.16
+Lucky Break,New York,50,$461.44
+The Attacks of 26/11,New York,50,"$2,098.61"
+Extraordinary Mission,New York,50,$242.09
+My Kingdom,New York,50,$22.03
+Ice Blues,New York,50,$5.64
+Hukkle,New York,50,$423.31
+King of the Jungle,New York,50,$229.52
+Shikari,New York,50,$344.03
+Snowman's Land,New York,50,$9.51
+La soga,New York,50,"$1,779.85"
+Krazzy 4,New York,50,"$4,117.13"
+Secuestro express,New York,50,"$2,554.16"
+La siciliana ribelle,New York,50,$585.68
+The Killing of John Lennon,New York,50,$56.38
+Love and a Bullet,New York,50,$142.41
+Goodland,New York,50,$271.59
+Shock to the System,New York,50,$30.97
+Bulgarian Lovers,New York,50,$502.29
+"On the Other Hand, Death",New York,50,$20.49
+The Advocate: A Missing Body,New York,50,$382.46
+Death of a President,New York,50,"$4,386.45"
+Green is Gold,New York,50,$3.63
+Gimme the Loot,New York,50,$826.17
+Water & Power,New York,50,$667.94
+À Tout de Suite,New York,50,"$2,092.61"
+Difret,New York,50,$324.91
+Tycoon: A New Russian,New York,50,"$1,022.63"
+A Cool Fish,New York,50,"$4,663.54"
+"Lucía, Lucía",New York,50,"$2,260.42"
+Gang,New York,50,$244.34
+The Ministers,New York,50,$24.03
+By Hook or by Crook,New York,50,$15.23
+Inspector Bellamy,New York,50,$894.83
+Intersection,New York,50,$38.96
+Wasabi Tuna,New York,50,$428.09
+Splinter,New York,50,$109.16
+Settai,New York,50,$737.38
+Chronicle of an Escape,New York,50,$11.04
+Randy and the Mob,New York,50,$381.09
+Out the Gate,New York,50,$13.31
+High Times Potluck,New York,50,$40.79
+Bonnie & Clyde vs. Dracula,New York,50,$211.49
+Conspiracy of Silence,New York,50,$21.95
+Valley of Bones,New York,50,"$1,425.89"
+The Witness,New York,50,"$1,343.42"
+The Dukes,New York,50,$221.04
+United Red Army,New York,50,$14.81
+Ethan Mao,New York,50,$57.79
+Outta Time,New York,50,$34.24
+Mercy Streets,New York,50,"$1,453.36"
+Mr. X,New York,50,$254.33
+Lost in Hong Kong,New York,50,"$11,004.71"
+Nowhere Man,New York,50,$19.84
+Day Night Day Night,New York,50,$268.53
+Fakers,New York,50,$415.70
+The Code,New York,50,$108.52
+Murder.com,New York,50,$17.49
+Gasoline,New York,50,$36.40
+Viva Riva!,New York,50,$521.88
+Steel City,New York,50,$86.42
+Bank$tas,New York,50,$126.22
+Big Muddy,New York,50,$6.78
+An Act of War,New York,50,$963.34
+New World Order,New York,50,$169.85
+Cavale,New York,50,$547.55
+Line Walker 2: Invisible Spy,New York,50,"$2,444.65"
+Après la vie,New York,50,$221.10
+Mr. Smith Gets a Hustler,New York,50,$13.38
+This Last Lonely Place,New York,50,$170.82
+Sunrise,New York,50,$8.45
+The Fuzz,New York,50,$51.27
+Undoing,New York,50,$380.26
+3 Holes and a Smoking Gun,New York,50,$152.11
+Mi America,New York,50,$28.14
+Cavite,New York,50,$592.12
+Virgil Bliss,New York,50,$12.38
+Rightways Down,New York,50,$52.81
+Shadow Glories,New York,50,$193.64
+Daylight,New York,50,$32.81
+In Echo Park,New York,50,$51.06
+Justice Is Mind,New York,50,$2.83
+Dark Meridian,New York,50,$40.56
+Ridge Runners,New York,50,$217.70
+Autumn,New York,50,$88.97
+Mumbai Mirror,New York,50,$38.45
+Forgive Me Father,New York,50,"$3,708.90"
+I Recorded a Murder!,New York,50,$12.68
+Winning Formula,New York,50,$184.68
