@@ -1,6 +1,6 @@
 # i-tickets
 ```
-Have you ever wondered why certain movies are advertised during certain times of year, have you ever wondered why there are so many certain types of movies or why there certain ratings seem to be more prevalent? Well look no further, i-tickets is here to give you the scoop, the 411, the dirt, and all those detail things on what you may or may not have noticed about the movie-going experience. SO without further ado, let's get started...
+Have you ever wondered why certain movies are advertised during certain times of the year, maybe wondered why there are so many releases of a certain genre of film, or perhaps why certain ratings seem to be more prevalent? Well look no further, i-tickets is here to give you the scoop, the 411, the dirt, and all those detail things on what you may or may not have noticed about the movie-going experience. SO without further ado, let's get started...
 ```
 
 <img align="center" width="900" height="500" src='images/i-tickets.png'>
