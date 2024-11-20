@@ -226,9 +226,9 @@ Family-friendly genres, such as Comedy and Animation, excel during holidays.
 
 If you have any additional questions, feel free to connect with us at 
 [Armand Araujo LinkedIn](https://www.linkedin.com/in/armand-araujo-a82ba2291/).
-[Misha Hedman  LinkedIn](MISS MISHA)
-[Mei Kam Bharadwaj LinkedIn](MISS MEI)
-[Laetitia Germe-Jones LinkedIn](MISS LAETITIA)
+[Misha Hedman  LinkedIn](https://www.linkedin.com/in/misha-hedman-829250242/)
+[Mei Kam Bharadwaj LinkedIn](https://www.linkedin.com/in/mei-k-kam/)
+[Laetitia Germe-Jones LinkedIn](https://www.linkedin.com/in/laetitia-germe-jones-247799166/)
 
 
 
